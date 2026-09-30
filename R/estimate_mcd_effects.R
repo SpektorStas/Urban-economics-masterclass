@@ -4,6 +4,7 @@ library(data.table)
 library(did)
 library(ggplot2)
 library(MatchIt)
+library(ggpubr)
 
 OUT <- "output"
 if (!file.exists(file.path("input", "mcd_line_launches.csv"))) {
@@ -16,7 +17,7 @@ if (!file.exists(file.path(OUT, "r_firm_year.parquet")) ||
 SECTIONS <- c("G", "I", "J", "M", "Q", "S")
 MIN_FIRMS_PER_ARM <- 30
 ANTICIPATION <- 1  # год частичного запуска исключён из чистого pre-period
-MATCH_G <- 2024     # 2020 = D1/D2; 2024 = D3/D4
+MATCH_G <- 2020     # 2020 = D1/D2; 2024 = D3/D4
 firm_panel <- as.data.table(read_parquet(file.path(OUT, "r_firm_year.parquet")))
 hexes <- as.data.table(read_parquet(file.path(OUT, "r_hex_year.parquet")))
 
@@ -50,14 +51,31 @@ sections <- support[
   baseline_section
 ]
 if (!length(sections)) stop("Недостаточно treated/control фирм: проверьте реестр станций")
+firms[, distance_center_km := sqrt(
+  ((lon - 37.617698) * 111.32 * cos(55.755864 * pi / 180))^2 +
+    ((lat - 55.755864) * 110.57)^2
+)]
+firms[, log1p_res_area := log1p(pmax(0, baseline_pre2014_res_area))]
+firms[, station_distance_km := baseline_distance_m / 1000]
+firms[, log1p_distance_center_km := log1p(distance_center_km)]
+hexes[, log1p_res_area := log1p(pmax(0, pre2014_res_area))]
+hexes[, station_distance_km := distance_m / 1000]
 
-estimate_cs <- function(data, id, outcome, title) {
-  data <- data[!is.na(get(outcome))]
+estimate_cs <- function(data, id, outcome, title, covariates) {
+  data <- copy(data[is.finite(get(outcome))])
+  required <- c(id, "year", "g", "cluster_num", covariates)
+  data <- data[complete.cases(data[, ..required])]
+  # При USE_HOUSES=FALSE жилищные характеристики равны нулю: не включаем
+  # константу в регрессию. То же правило защищает от вырожденных подвыборок.
+  varied <- covariates[vapply(covariates, function(x) uniqueN(data[[x]]) > 1L, logical(1))]
+  omitted <- setdiff(covariates, varied)
+  if (length(omitted)) message(title, ": константные ковариаты пропущены: ", paste(omitted, collapse = ", "))
+  xformla <- if (length(varied)) reformulate(varied) else ~ 1
   fit <- did::att_gt(
     yname = outcome, tname = "year", idname = id, gname = "g",
-    data = as.data.frame(data), xformla = ~ 1,
+    data = as.data.frame(data), xformla = xformla,
     panel = TRUE, allow_unbalanced_panel = TRUE,
-    control_group = "nevertreated", anticipation = ANTICIPATION,
+    control_group = "notyettreated", anticipation = ANTICIPATION,
     est_method = "dr", clustervars = "cluster_num",
     bstrap = TRUE, cband = TRUE, biters = 499
   )
@@ -71,14 +89,21 @@ estimate_cs <- function(data, id, outcome, title) {
 
 results <- list()
 rows <- list()
+firm_plots <- list()
+hex_plots <- list()
 for (section in sections) {
   for (level in c("firm", "hex")) {
     data <- if (level == "firm") firms[baseline_section == section] else hexes
     id <- if (level == "firm") "firm_id_num" else "cell_id_num"
     outcome <- if (level == "firm") "asinh_revenue_mln" else paste0("log1p_firms_", section)
+    covariates <- if (level == "firm") {
+      c("log1p_res_area", "station_distance_km", "log1p_distance_center_km")
+    } else {
+      c("log1p_res_area", "station_distance_km")
+    }
     key <- paste(level, section, sep = "_")
     result <- tryCatch(
-      estimate_cs(data, id, outcome, paste("МЦД:", level, "ОКВЭД", section)),
+      estimate_cs(data, id, outcome, paste("МЦД:", level, "ОКВЭД", section), covariates),
       error = function(e) {
         message("Пропущено ", key, ": ", conditionMessage(e))
         NULL
@@ -93,6 +118,9 @@ for (section in sections) {
     print(result$plot)
     ggsave(file.path(OUT, paste0("event_mcd_", key, ".png")),
            result$plot, width = 8, height = 5, dpi = 250)
+    if (level == 'firm') {
+      firm_plots[[section]] <- result$plot
+    } else {hex_plots[[section]] <- result$plot}
   }
 }
 if (length(rows)) {
@@ -100,6 +128,10 @@ if (length(rows)) {
   print(staggered_table)
   fwrite(staggered_table, file.path(OUT, "mcd_staggered_att.csv"))
 }
+
+ggarrange(plotlist = firm_plots)
+ggarrange(plotlist = hex_plots)
+ggplot(hexes%>%group_by(treatment_group, year)%>%summarise(firms = mean(firms_G, na.rm = T)))+geom_line(aes(x = year, y = firms, col = treatment_group))+theme_minimal()
 
 # Дополнение: matching на доступных pre-ковариатах выбранной когорты.
 # Для каждого исхода отдельно оставляем фирмы с pre и post наблюдениями.
@@ -136,18 +168,20 @@ match_one_outcome <- function(section, label, outcome) {
     distance_center_km = mean(distance_center_km, na.rm = TRUE),
     lon = mean(lon, na.rm = TRUE),
     pre_revenue = mean(asinh_revenue_mln, na.rm = TRUE),
-    pre_assets = mean(asinh_assets_mln, na.rm = TRUE)
+    pre_assets = mean(asinh_assets_mln, na.rm = TRUE),
+    pre2014_units = mean(baseline_pre2014_units, na.rm = TRUE)
   ), by = .(firm_id_num, Treated)]
   base <- merge(base, changes[, .(firm_id_num)], by = "firm_id_num")
-  base <- base[complete.cases(base[, .(
-    distance_center_km, lon, pre_revenue, pre_assets
-  )])]
+  match_vars <- c("distance_center_km", "lon", "pre_revenue", "pre_assets", "pre2014_units")
+  base <- base[complete.cases(base[, ..match_vars])]
   n_treated <- base[, uniqueN(firm_id_num[Treated == 1])]
   n_control <- base[, uniqueN(firm_id_num[Treated == 0])]
   if (min(n_treated, n_control) < 20) return(NULL)
 
+  match_vars <- match_vars[vapply(match_vars, function(x) uniqueN(base[[x]]) > 1L, logical(1))]
+  if (!length(match_vars)) return(NULL)
   matching <- MatchIt::matchit(
-    Treated ~ distance_center_km + lon + pre_revenue + pre_assets,
+    reformulate(match_vars, response = "Treated"),
     data = as.data.frame(base), method = "nearest", estimand = "ATT",
     ratio = 1, distance = "glm"
   )
@@ -203,6 +237,7 @@ if (length(matched_rows)) {
   ggsave(file.path(OUT, paste(MATCH_G, "mcd_matched_heterogeneity.png")),
          heterogeneity_plot, width = 10, height = 6, dpi = 250)
 }
+
 
 # Гексы: число фирм (все и по секциям) + общие денежные показатели.
 # Пустой гекс = 0; если фирмы есть, но никто не отчитался, деньги = NA.
