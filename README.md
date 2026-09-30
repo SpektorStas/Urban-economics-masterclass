@@ -111,8 +111,6 @@ source("R/estimate_mcd_effects.R")
    source("R/estimate_mcd_effects.R")
    ```
 
-   `fixest` и `dreamerr` здесь не нужны.
-
 ## Файлы на выходе
 
 - `output/r_firm_year.parquet` – фирма × год, cohort по исходному catchment;
