@@ -1,0 +1,974 @@
+﻿station_id;station_name;lon;lat;railway_tag;line_hint;mcd_line;corridor_id;baseline_operating;verified;source_url
+node_26999673;Москва-Пассажирская;37.6537207;55.7788343;station;;;;;1;https://www.openstreetmap.org/node/26999673
+node_26999985;Сходня;37.2990008;55.9496529;station;;;;;1;https://www.openstreetmap.org/node/26999985
+node_31447925;Сетунь;37.3968256;55.7235596;halt;;;;;1;https://www.openstreetmap.org/node/31447925
+node_31447943;Кунцевская;37.4495857;55.7268977;station;;;;;1;https://www.openstreetmap.org/node/31447943
+node_31448085;Немчиновка;37.3752603;55.7159368;halt;;;;;1;https://www.openstreetmap.org/node/31448085
+node_54626031;Черкизово;37.7466848;55.8030155;station;;;;;1;https://www.openstreetmap.org/node/54626031
+node_61088523;Москва-Пассажирская-Курская;37.6627881;55.7576777;station;;;;;1;https://www.openstreetmap.org/node/61088523
+node_85698866;Москва-Пассажирская-Казанская;37.6599154;55.7742335;station;;;;;1;https://www.openstreetmap.org/node/85698866
+node_87702782;Матвеевская;37.4815283;55.7045582;halt;;;;;1;https://www.openstreetmap.org/node/87702782
+node_98820001;Портновская;36.7440465;55.5886966;halt;;;;;1;https://www.openstreetmap.org/node/98820001
+node_98820041;Пионерская;37.2119708;55.665265;halt;;;;;1;https://www.openstreetmap.org/node/98820041
+node_98820051;Баковка;37.3146501;55.6825897;halt;;;;;1;https://www.openstreetmap.org/node/98820051
+node_136876035;Текстильщики;37.729528;55.7074863;halt;;;;;1;https://www.openstreetmap.org/node/136876035
+node_136880164;Москворечье;37.6900672;55.6412776;halt;;;;;1;https://www.openstreetmap.org/node/136880164
+node_141135145;Удельная;38.0442366;55.6345648;halt;;;;;1;https://www.openstreetmap.org/node/141135145
+node_143411800;Лобня;37.4848762;56.0135144;station;;;;;1;https://www.openstreetmap.org/node/143411800
+node_146573247;Москва-Рижская;37.6322554;55.795067;station;;;;;1;https://www.openstreetmap.org/node/146573247
+node_148240095;Аэропорт-Домодедово;37.8969119;55.4150323;halt;;;;;1;https://www.openstreetmap.org/node/148240095
+node_148263975;Бирюлёво-Пассажирская;37.6595425;55.5831802;halt;;;;;1;https://www.openstreetmap.org/node/148263975
+node_156461626;Калистово;37.9660599;56.1905789;halt;;;;;1;https://www.openstreetmap.org/node/156461626
+node_156481637;Лебзино;37.4137467;56.7738931;station;;;;;1;https://www.openstreetmap.org/node/156481637
+node_208676703;Хорошово;38.7872044;55.1440739;halt;;;;;1;https://www.openstreetmap.org/node/208676703
+node_208676751;Голутвин;38.8052754;55.0861808;station;;;;;1;https://www.openstreetmap.org/node/208676751
+node_208677806;Фруктовая;39.2587429;54.9159087;station;;;;;1;https://www.openstreetmap.org/node/208677806
+node_220196839;Кожухово;37.6512864;55.699905;station;;;;;1;https://www.openstreetmap.org/node/220196839
+node_220203803;Угрешская;37.6874448;55.7154769;station;;;;;1;https://www.openstreetmap.org/node/220203803
+node_248916189;Железнодорожная;38.0082811;55.7524929;station;;;;;1;https://www.openstreetmap.org/node/248916189
+node_250536465;Салтыковская;37.923137;55.7575888;halt;;;;;1;https://www.openstreetmap.org/node/250536465
+node_253016685;Шатурторф;39.4079432;55.57288;halt;;;;;1;https://www.openstreetmap.org/node/253016685
+node_253016691;Заполицы;39.2220841;55.5695175;halt;;;;;1;https://www.openstreetmap.org/node/253016691
+node_253213262;Москва-Сити;37.5315112;55.7537994;halt;;;;;1;https://www.openstreetmap.org/node/253213262
+node_253323288;Ильинское;37.2411935;55.733715;halt;;;;;1;https://www.openstreetmap.org/node/253323288
+node_253334673;Звенигород;36.8793818;55.70026;station;;;;;1;https://www.openstreetmap.org/node/253334673
+node_253335716;Отрадное;37.2503157;55.6677773;halt;;;;;1;https://www.openstreetmap.org/node/253335716
+node_253335932;Здравница;37.1515925;55.6502689;halt;;;;;1;https://www.openstreetmap.org/node/253335932
+node_253336285;Дачное;37.0666175;55.6360983;halt;;;;;1;https://www.openstreetmap.org/node/253336285
+node_253336397;Малые Вязёмы;37.029341;55.6263604;halt;;;;;1;https://www.openstreetmap.org/node/253336397
+node_253337001;Голицыно;36.9867352;55.6151881;station;;;;;1;https://www.openstreetmap.org/node/253337001
+node_253438831;Холщевики;36.7015587;55.9264949;station;;;;;1;https://www.openstreetmap.org/node/253438831
+node_253440910;Муратовка;36.1560151;54.6196073;station;;;;;1;https://www.openstreetmap.org/node/253440910
+node_253440936;Азарово;36.244353;54.5658955;station;;;;;1;https://www.openstreetmap.org/node/253440936
+node_253463302;Щурово;38.8515278;55.0647716;station;;;;;1;https://www.openstreetmap.org/node/253463302
+node_254916960;Дорошиха;35.8386299;56.8682625;station;;;;;1;https://www.openstreetmap.org/node/254916960
+node_254923431;Горбатка;35.8383134;56.8776927;halt;;;;;1;https://www.openstreetmap.org/node/254923431
+node_255593178;Бекасово I;36.8401684;55.4296452;station;;;;;1;https://www.openstreetmap.org/node/255593178
+node_255594201;Бекасово-Центральное;36.8847465;55.4051056;halt;;;;;1;https://www.openstreetmap.org/node/255594201
+node_255595272;Сандарово;37.450409;55.2571476;station;;;;;1;https://www.openstreetmap.org/node/255595272
+node_255596563;Повадино;37.7449961;55.1789162;halt;;;;;1;https://www.openstreetmap.org/node/255596563
+node_255596564;309 км;37.7931699;55.1787373;halt;;;;;1;https://www.openstreetmap.org/node/255596564
+node_256104649;Родники;38.0678689;55.6558293;halt;;;;;1;https://www.openstreetmap.org/node/256104649
+node_258669700;Стройка;37.8628505;55.780069;station;;;;;1;https://www.openstreetmap.org/node/258669700
+node_259630429;Электроугли;38.2022213;55.7301418;station;;;;;1;https://www.openstreetmap.org/node/259630429
+node_260381472;Простор;37.6230943;54.5249745;halt;;;;;1;https://www.openstreetmap.org/node/260381472
+node_260381479;Шульгино;37.5946861;54.5746586;station;;;;;1;https://www.openstreetmap.org/node/260381479
+node_260381772;Байдики;37.6598902;54.3241548;halt;;;;;1;https://www.openstreetmap.org/node/260381772
+node_265769138;Шубино;38.3729321;56.3959304;halt;;;;;1;https://www.openstreetmap.org/node/265769138
+node_265769931;Бужаниново;38.3079348;56.3918671;station;;;;;1;https://www.openstreetmap.org/node/265769931
+node_265769933;83 км;38.2697872;56.3853044;halt;;;;;1;https://www.openstreetmap.org/node/265769933
+node_265770343;Сергиев Посад;38.1371689;56.3021734;station;;;;;1;https://www.openstreetmap.org/node/265770343
+node_265811563;Дорохово;36.3710488;55.5462449;station;;;;;1;https://www.openstreetmap.org/node/265811563
+node_266426836;Лихоборы;37.5304764;55.842712;station;;;;;1;https://www.openstreetmap.org/node/266426836
+node_266429650;Гражданская;37.5532288;55.8055538;halt;;;;;1;https://www.openstreetmap.org/node/266429650
+node_267772268;Яничкино;37.8596249;55.6534701;station;;;;;1;https://www.openstreetmap.org/node/267772268
+node_268023025;Егорьевск II;39.0089474;55.3907389;halt;;;;;1;https://www.openstreetmap.org/node/268023025
+node_268038950;Бачманово;38.7996258;55.0743441;halt;;;;;1;https://www.openstreetmap.org/node/268038950
+node_268588155;Икша;37.5092777;56.1718602;station;;;;;1;https://www.openstreetmap.org/node/268588155
+node_268947118;Бородино;35.8609693;55.4955214;station;;;;;1;https://www.openstreetmap.org/node/268947118
+node_270194228;Радонеж;37.9766882;56.2141864;halt;;;;;1;https://www.openstreetmap.org/node/270194228
+node_270332125;Правда;37.867766;56.0647301;halt;;;;;1;https://www.openstreetmap.org/node/270332125
+node_270332126;Заветы Ильича;37.8542928;56.0399011;halt;;;;;1;https://www.openstreetmap.org/node/270332126
+node_270332134;Пушкино;37.8393723;56.0121205;station;;;;;1;https://www.openstreetmap.org/node/270332134
+node_270332136;Клязьма;37.8190535;55.9785726;halt;;;;;1;https://www.openstreetmap.org/node/270332136
+node_270437859;190 км;36.7953483;55.7207143;halt;;;;;1;https://www.openstreetmap.org/node/270437859
+node_271147848;Хрипань;38.1754254;55.638633;halt;;;;;1;https://www.openstreetmap.org/node/271147848
+node_271395870;142 км;37.0760998;56.0591111;halt;;;;;1;https://www.openstreetmap.org/node/271395870
+node_271395891;Локомотив;37.0544263;56.0326183;halt;;;;;1;https://www.openstreetmap.org/node/271395891
+node_271788180;Корытово;35.5406863;55.5299378;halt;;;;;1;https://www.openstreetmap.org/node/271788180
+node_271834573;Луховицы;39.0418827;54.9824691;station;;;;;1;https://www.openstreetmap.org/node/271834573
+node_275032442;Тверца;35.7170034;56.9534158;halt;;;;;1;https://www.openstreetmap.org/node/275032442
+node_276586501;Ульшино;35.5951841;54.9303653;halt;;;;;1;https://www.openstreetmap.org/node/276586501
+node_276586509;Кошняки;35.4713654;54.9502309;halt;;;;;1;https://www.openstreetmap.org/node/276586509
+node_276586626;84 км;35.4337808;54.9504133;halt;;;;;1;https://www.openstreetmap.org/node/276586626
+node_276587192;Износки;35.3097143;54.9884975;station;;;;;1;https://www.openstreetmap.org/node/276587192
+node_277523022;Гривно;37.5268085;55.3566852;station;;;;;1;https://www.openstreetmap.org/node/277523022
+node_277544808;Внуково;37.2695269;55.648962;station;;;;;1;https://www.openstreetmap.org/node/277544808
+node_281752116;Костино;37.781703;56.292672;station;;;;;1;https://www.openstreetmap.org/node/281752116
+node_281752550;71 км;37.7015007;56.3146205;halt;;;;;1;https://www.openstreetmap.org/node/281752550
+node_281752560;68 км;37.7312335;56.313521;halt;;;;;1;https://www.openstreetmap.org/node/281752560
+node_281752674;62 км;37.8222471;56.2935453;halt;;;;;1;https://www.openstreetmap.org/node/281752674
+node_283596980;Аэропорт Шереметьево. Терминалы D, E, F;37.4174985;55.9641001;station;;;;;1;https://www.openstreetmap.org/node/283596980
+node_290874790;174 км;36.3337073;54.584678;halt;;;;;1;https://www.openstreetmap.org/node/290874790
+node_290875025;183 км;36.4589565;54.6057726;halt;;;;;1;https://www.openstreetmap.org/node/290875025
+node_290875032;Желябужская;36.5241675;54.5961572;halt;;;;;1;https://www.openstreetmap.org/node/290875032
+node_290875492;185 км;36.4949869;54.6073311;halt;;;;;1;https://www.openstreetmap.org/node/290875492
+node_290875496;193 км;36.586271;54.5686727;halt;;;;;1;https://www.openstreetmap.org/node/290875496
+node_292789222;Варшавская;37.6221979;55.654956;station;;;;;1;https://www.openstreetmap.org/node/292789222
+node_296983678;Вербилки;37.5600484;56.5388324;station;;;;;1;https://www.openstreetmap.org/node/296983678
+node_299607386;Большая Волга;37.1372583;56.7259779;station;;;;;1;https://www.openstreetmap.org/node/299607386
+node_300237458;Рублёво;37.3414659;55.7747632;station;;;;;1;https://www.openstreetmap.org/node/300237458
+node_301066407;Покров;39.2167792;55.8916844;station;;;;;1;https://www.openstreetmap.org/node/301066407
+node_303998149;Петушки;39.4625138;55.924664;station;;;;;1;https://www.openstreetmap.org/node/303998149
+node_305390572;Тула-Вяземская;37.6287177;54.2091679;station;;;;;1;https://www.openstreetmap.org/node/305390572
+node_305770731;Петелино;36.823272;55.602546;station;;;;;1;https://www.openstreetmap.org/node/305770731
+node_305897805;Лошатовка;38.820956;54.5713117;halt;;;;;1;https://www.openstreetmap.org/node/305897805
+node_305931885;Зеленоградская;37.9010481;56.0946975;halt;;;;;1;https://www.openstreetmap.org/node/305931885
+node_307459721;Рудниковская;38.8889291;55.339023;halt;;;;;1;https://www.openstreetmap.org/node/307459721
+node_307460567;Колычево;38.0922001;55.0277516;halt;;;;;1;https://www.openstreetmap.org/node/307460567
+node_307460583;Шматово;38.0532904;55.0044249;halt;;;;;1;https://www.openstreetmap.org/node/307460583
+node_307468992;Рюриково;37.1793879;54.4551372;halt;;;;;1;https://www.openstreetmap.org/node/307468992
+node_307471367;Берники;37.2474723;54.2888337;station;;;;;1;https://www.openstreetmap.org/node/307471367
+node_307488757;Кудринская;35.5429751;54.2503653;station;;;;;1;https://www.openstreetmap.org/node/307488757
+node_307516682;Карманово;37.1917636;56.6920404;halt;;;;;1;https://www.openstreetmap.org/node/307516682
+node_310099836;Перерва;37.7162612;55.6608445;halt;;;;;1;https://www.openstreetmap.org/node/310099836
+node_310100031;Люблино;37.7339138;55.6849688;halt;;;;;1;https://www.openstreetmap.org/node/310100031
+node_311605855;Бирюлёво-Товарная;37.6539345;55.5927752;station;;;;;1;https://www.openstreetmap.org/node/311605855
+node_311717434;Бойня;37.6934157;55.7259229;station;;;;;1;https://www.openstreetmap.org/node/311717434
+node_314526616;Чуприяновка;36.0408111;56.7568824;halt;;;;;1;https://www.openstreetmap.org/node/314526616
+node_314526619;Кузьминка;36.1388156;56.716282;halt;;;;;1;https://www.openstreetmap.org/node/314526619
+node_314526622;Межево;36.2195514;56.702774;halt;;;;;1;https://www.openstreetmap.org/node/314526622
+node_314527417;Московское море;36.3353454;56.6109427;halt;;;;;1;https://www.openstreetmap.org/node/314527417
+node_314532812;Ямуга;36.6212446;56.4044189;halt;;;;;1;https://www.openstreetmap.org/node/314532812
+node_314800929;Кривандино;39.6861557;55.559384;station;;;;;1;https://www.openstreetmap.org/node/314800929
+node_316075784;Москва-3;37.6515134;55.8017037;halt;;;;;1;https://www.openstreetmap.org/node/316075784
+node_316082112;Маленковская;37.6629809;55.8143283;halt;;;;;1;https://www.openstreetmap.org/node/316082112
+node_316082114;Яуза;37.6711095;55.8287749;halt;;;;;1;https://www.openstreetmap.org/node/316082114
+node_316103455;Фрязино-Товарная;38.0304026;55.9634191;halt;;;;;1;https://www.openstreetmap.org/node/316103455
+node_316109463;Мытищи;37.7617421;55.9148226;station;;;;;1;https://www.openstreetmap.org/node/316109463
+node_316172721;Алабушево;37.1406636;56.0080842;halt;;;;;1;https://www.openstreetmap.org/node/316172721
+node_316486724;Болшево;37.8574961;55.9306295;halt;;;;;1;https://www.openstreetmap.org/node/316486724
+node_316697751;Рижская;37.6406432;55.7925798;halt;;;;;1;https://www.openstreetmap.org/node/316697751
+node_316850875;Мещерская;37.4246099;55.666803;halt;;;;;1;https://www.openstreetmap.org/node/316850875
+node_316978213;Подлипки-Дачные;37.8164449;55.9254458;station;;;;;1;https://www.openstreetmap.org/node/316978213
+node_316978214;Болшево;37.8612364;55.9261494;station;;;;;1;https://www.openstreetmap.org/node/316978214
+node_316982589;Валентиновка;37.8918596;55.9249302;halt;;;;;1;https://www.openstreetmap.org/node/316982589
+node_316982591;Загорянская;37.9160656;55.9264785;halt;;;;;1;https://www.openstreetmap.org/node/316982591
+node_316982596;Соколовская;37.9461788;55.9271205;station;;;;;1;https://www.openstreetmap.org/node/316982596
+node_316982602;Воронок;37.9739568;55.9191388;halt;;;;;1;https://www.openstreetmap.org/node/316982602
+node_321410218;Левобережная;37.4688799;55.887022;halt;;;;;1;https://www.openstreetmap.org/node/321410218
+node_321554229;Поварово I;37.0594021;56.0789938;station;;;;;1;https://www.openstreetmap.org/node/321554229
+node_321559319;Тучково;36.468663;55.5973971;station;;;;;1;https://www.openstreetmap.org/node/321559319
+node_321559320;Санаторная;36.5344688;55.5907548;halt;;;;;1;https://www.openstreetmap.org/node/321559320
+node_321559321;Полушкино;36.568049;55.5852709;halt;;;;;1;https://www.openstreetmap.org/node/321559321
+node_321559322;Чапаевка;36.635384;55.5790624;halt;;;;;1;https://www.openstreetmap.org/node/321559322
+node_321662941;Ивантеевка;37.9392342;55.9648192;station;;;;;1;https://www.openstreetmap.org/node/321662941
+node_321945588;Фрязево;38.4650358;55.7323395;station;;;;;1;https://www.openstreetmap.org/node/321945588
+node_321975369;Александров-1;38.7029684;56.3972452;station;;;;;1;https://www.openstreetmap.org/node/321975369
+node_321975372;Струнино;38.5874667;56.3789327;station;;;;;1;https://www.openstreetmap.org/node/321975372
+node_321975396;Карабаново;38.6951131;56.3186442;halt;;;;;1;https://www.openstreetmap.org/node/321975396
+node_322044140;Нагорное;37.9180682;56.1172472;halt;;;;;1;https://www.openstreetmap.org/node/322044140
+node_322047047;Ивачково;37.4853044;55.224241;halt;;;;;1;https://www.openstreetmap.org/node/322047047
+node_322047058;Вяткино;37.3795401;55.2565455;halt;;;;;1;https://www.openstreetmap.org/node/322047058
+node_324947787;Дмитров;37.5104118;56.3375775;station;;;;;1;https://www.openstreetmap.org/node/324947787
+node_324958151;Талдом-Савёловский;37.5276118;56.7216242;station;;;;;1;https://www.openstreetmap.org/node/324958151
+node_325044447;Черничная;36.503905;56.5014844;halt;;;;;1;https://www.openstreetmap.org/node/325044447
+node_325092139;Вишняково;38.1528697;55.7443178;halt;;;;;1;https://www.openstreetmap.org/node/325092139
+node_327365784;Семхоз;38.0777177;56.2833084;halt;;;;;1;https://www.openstreetmap.org/node/327365784
+node_327377263;Хотьково;37.9981322;56.2569451;station;;;;;1;https://www.openstreetmap.org/node/327377263
+node_327377358;Абрамцево;37.9847491;56.2337535;halt;;;;;1;https://www.openstreetmap.org/node/327377358
+node_327377369;Софрино;37.9305753;56.1365062;station;;;;;1;https://www.openstreetmap.org/node/327377369
+node_327377375;Ашукинская;37.9468354;56.1613025;halt;;;;;1;https://www.openstreetmap.org/node/327377375
+node_327399492;81 км;38.2282519;56.369887;halt;;;;;1;https://www.openstreetmap.org/node/327399492
+node_329490039;Ясногорск;37.6850121;54.4790325;station;;;;;1;https://www.openstreetmap.org/node/329490039
+node_329505919;Приокская;37.3727012;54.8294537;halt;;;;;1;https://www.openstreetmap.org/node/329505919
+node_329526473;Кубинка I;36.690883;55.5791251;station;;;;;1;https://www.openstreetmap.org/node/329526473
+node_329585313;Устиновка;36.4525649;55.988263;halt;;;;;1;https://www.openstreetmap.org/node/329585313
+node_333556214;Поселок Воровского;38.2910194;55.7221842;halt;;;;;1;https://www.openstreetmap.org/node/333556214
+node_333556222;Заря;38.086317;55.75363;halt;;;;;1;https://www.openstreetmap.org/node/333556222
+node_333556261;Гжельские источники;38.413679;55.6147522;halt;;;;;1;https://www.openstreetmap.org/node/333556261
+node_333556299;52 км;38.3510157;55.6280233;halt;;;;;1;https://www.openstreetmap.org/node/333556299
+node_333556302;Игумново;38.3135396;55.6287852;halt;;;;;1;https://www.openstreetmap.org/node/333556302
+node_333556306;41 км;38.2011876;55.6370373;halt;;;;;1;https://www.openstreetmap.org/node/333556306
+node_335662711;Лесодолгоруково;36.3385237;56.0107807;halt;;;;;1;https://www.openstreetmap.org/node/335662711
+node_335670071;50 км;36.9685493;55.8963427;halt;;;;;1;https://www.openstreetmap.org/node/335670071
+node_340066125;Кобылинка;40.0078887;55.0090647;halt;;;;;1;https://www.openstreetmap.org/node/340066125
+node_340071259;Ясаково;40.2240361;54.3934445;halt;;;;;1;https://www.openstreetmap.org/node/340071259
+node_340071653;Подлипки;39.1759023;54.956163;station;;;;;1;https://www.openstreetmap.org/node/340071653
+node_343566763;Перспективная;36.3078706;54.5554204;station;;;;;1;https://www.openstreetmap.org/node/343566763
+node_352945767;Никулки;37.5677367;56.5808981;halt;;;;;1;https://www.openstreetmap.org/node/352945767
+node_358162126;Трубино;35.623142;57.0151692;halt;;;;;1;https://www.openstreetmap.org/node/358162126
+node_358162979;Кулицкий Мох;35.650455;56.9972604;halt;;;;;1;https://www.openstreetmap.org/node/358162979
+node_358166282;Лазурная;35.9806864;56.8009628;halt;;;;;1;https://www.openstreetmap.org/node/358166282
+node_360783021;Каналстрой;37.5156076;56.3834953;station;;;;;1;https://www.openstreetmap.org/node/360783021
+node_364880119;Яхрома;37.5014589;56.2868456;station;;;;;1;https://www.openstreetmap.org/node/364880119
+node_367134385;Школьная;38.142051;55.5865453;halt;;;;;1;https://www.openstreetmap.org/node/367134385
+node_367160704;Детская;38.143522;55.5967329;halt;;;;;1;https://www.openstreetmap.org/node/367160704
+node_367161315;Юность;38.1371738;55.6006963;station;;;;;1;https://www.openstreetmap.org/node/367161315
+node_370139605;Орудьево;37.5192056;56.4457914;station;;;;;1;https://www.openstreetmap.org/node/370139605
+node_370141299;124 км;37.382467;56.8098668;halt;;;;;1;https://www.openstreetmap.org/node/370141299
+node_375896139;Кунцево II;37.3924879;55.7297909;station;;;;;1;https://www.openstreetmap.org/node/375896139
+node_395397610;Ястребки;36.7603965;55.6732731;halt;;;;;1;https://www.openstreetmap.org/node/395397610
+node_395441438;Хорлово;38.811215;55.3400698;halt;;;;;1;https://www.openstreetmap.org/node/395441438
+node_403751054;Поточино;39.0223772;55.8506022;station;;;;;1;https://www.openstreetmap.org/node/403751054
+node_403753264;Омутище;39.3223362;55.9095604;halt;;;;;1;https://www.openstreetmap.org/node/403753264
+node_403755397;Новое Перепечино;39.2823983;55.9047156;halt;;;;;1;https://www.openstreetmap.org/node/403755397
+node_403758029;87 км;38.956492;55.7738224;halt;;;;;1;https://www.openstreetmap.org/node/403758029
+node_403758030;Кабаново;38.9313959;55.7612906;halt;;;;;1;https://www.openstreetmap.org/node/403758030
+node_403775091;Акри;38.1188309;54.8735036;halt;;;;;1;https://www.openstreetmap.org/node/403775091
+node_405105298;Мордвес;38.2228364;54.574968;station;;;;;1;https://www.openstreetmap.org/node/405105298
+node_411030974;Конаковский Мох;36.6726629;56.5761575;station;;;;;1;https://www.openstreetmap.org/node/411030974
+node_420464927;Толстопальцево;37.1858211;55.6076093;station;;;;;1;https://www.openstreetmap.org/node/420464927
+node_431506792;Войново;39.0640754;55.8429214;halt;;;;;1;https://www.openstreetmap.org/node/431506792
+node_431547232;Вохна;38.6305422;55.769548;halt;;;;;1;https://www.openstreetmap.org/node/431547232
+node_434499692;Москва-Товарная;37.6893076;55.745199;station;;;;;1;https://www.openstreetmap.org/node/434499692
+node_437991229;Ленская;38.7002826;55.7743903;halt;;;;;1;https://www.openstreetmap.org/node/437991229
+node_437991238;Ковригино;38.7193315;55.7935198;halt;;;;;1;https://www.openstreetmap.org/node/437991238
+node_441899396;Путепроводная;36.5577312;56.5039772;halt;;;;;1;https://www.openstreetmap.org/node/441899396
+node_441899401;Донховка;36.7205169;56.6276248;halt;;;;;1;https://www.openstreetmap.org/node/441899401
+node_442034193;119 км;37.2258746;56.678764;halt;;;;;1;https://www.openstreetmap.org/node/442034193
+node_451997524;Берендино;38.8092768;55.4103747;station;;;;;1;https://www.openstreetmap.org/node/451997524
+node_473887668;Москва-Пассажирская-Ярославская;37.6567616;55.7784041;station;;;;;1;https://www.openstreetmap.org/node/473887668
+node_474554729;Кутузовская;37.5484205;55.4035858;halt;;;;;1;https://www.openstreetmap.org/node/474554729
+node_479759800;Перхушково;37.1834251;55.6612493;halt;;;;;1;https://www.openstreetmap.org/node/479759800
+node_489859517;Тысья;40.0603809;54.4201699;halt;;;;;1;https://www.openstreetmap.org/node/489859517
+node_489906221;Булатниково;37.6681803;55.5662501;halt;;;;;1;https://www.openstreetmap.org/node/489906221
+node_504080258;Мамонтовская;37.8286027;55.9938732;halt;;;;;1;https://www.openstreetmap.org/node/504080258
+node_523300555;Пожога;39.6733578;55.4005901;halt;;;;;1;https://www.openstreetmap.org/node/523300555
+node_523806448;Захарово;38.4676974;55.8723731;halt;;;;;1;https://www.openstreetmap.org/node/523806448
+node_536331363;Треполье;38.8317032;54.3364138;halt;;;;;1;https://www.openstreetmap.org/node/536331363
+node_536671283;Тарусская;37.400701;54.7351098;station;;;;;1;https://www.openstreetmap.org/node/536671283
+node_540181757;Ожерелье;38.2729159;54.8013576;station;;;;;1;https://www.openstreetmap.org/node/540181757
+node_540181770;Тесна;38.2432172;54.8307244;halt;;;;;1;https://www.openstreetmap.org/node/540181770
+node_540181855;Кашира-Пассажирская;38.1894127;54.8576741;station;;;;;1;https://www.openstreetmap.org/node/540181855
+node_540186756;Белопесоцкий;38.1422447;54.869507;halt;;;;;1;https://www.openstreetmap.org/node/540186756
+node_540212671;Востряково;37.8147758;55.382262;halt;;;;;1;https://www.openstreetmap.org/node/540212671
+node_559413207;Шаликово;36.2212485;55.5117561;halt;;;;;1;https://www.openstreetmap.org/node/559413207
+node_561285324;Рошаль;39.8901047;55.6602165;station;;;;;1;https://www.openstreetmap.org/node/561285324
+node_568605594;Игнатьево;38.505377;55.603774;halt;;;;;1;https://www.openstreetmap.org/node/568605594
+node_602157105;Хомяково;37.6097103;54.2946781;station;;;;;1;https://www.openstreetmap.org/node/602157105
+node_602157111;Ревякино;37.6630409;54.3630414;station;;;;;1;https://www.openstreetmap.org/node/602157111
+node_602157112;Шеметово;37.6991914;54.4388821;halt;;;;;1;https://www.openstreetmap.org/node/602157112
+node_602157120;Александровка;37.4770926;54.6776754;halt;;;;;1;https://www.openstreetmap.org/node/602157120
+node_602157124;Ока;37.4297244;54.8862422;halt;;;;;1;https://www.openstreetmap.org/node/602157124
+node_617011885;Бармино;39.6496204;55.2633767;halt;;;;;1;https://www.openstreetmap.org/node/617011885
+node_617631269;Проезд Станкостроителей;38.7549543;55.0703317;station;;;;;1;https://www.openstreetmap.org/node/617631269
+node_619378867;Литвинки;35.8700574;56.9187298;halt;;;;;1;https://www.openstreetmap.org/node/619378867
+node_619378870;Шаблино;35.8813699;56.9319545;halt;;;;;1;https://www.openstreetmap.org/node/619378870
+node_619378871;Доронинская;35.8963837;56.9534193;station;;;;;1;https://www.openstreetmap.org/node/619378871
+node_620884679;Упа;37.0495818;54.2071911;station;;;;;1;https://www.openstreetmap.org/node/620884679
+node_632688652;Шарапова Охота;37.4774137;55.0412562;station;;;;;1;https://www.openstreetmap.org/node/632688652
+node_634990466;221 км;36.7017905;55.4656704;halt;;;;;1;https://www.openstreetmap.org/node/634990466
+node_639030925;Электросталь;38.4610226;55.7867629;station;;;;;1;https://www.openstreetmap.org/node/639030925
+node_667944965;Чернецкое;37.2813001;55.2543141;halt;;;;;1;https://www.openstreetmap.org/node/667944965
+node_676636855;Монино;38.1976948;55.843453;station;;;;;1;https://www.openstreetmap.org/node/676636855
+node_676652914;Серпухов;37.4518444;54.9347142;station;;;;;1;https://www.openstreetmap.org/node/676652914
+node_677505074;Колочь;35.7357056;55.4995135;halt;;;;;1;https://www.openstreetmap.org/node/677505074
+node_677505079;Уваровка;35.6104386;55.5320236;station;;;;;1;https://www.openstreetmap.org/node/677505079
+node_677508035;Можайск;36.0334786;55.4940675;station;;;;;1;https://www.openstreetmap.org/node/677508035
+node_677508037;Кукаринская;36.126104;55.4993707;halt;;;;;1;https://www.openstreetmap.org/node/677508037
+node_678297184;Дровнино;35.3783096;55.5130899;halt;;;;;1;https://www.openstreetmap.org/node/678297184
+node_678300995;Батюшково;35.2974709;55.5326377;halt;;;;;1;https://www.openstreetmap.org/node/678300995
+node_678306015;Колесники;35.1331811;55.5303945;halt;;;;;1;https://www.openstreetmap.org/node/678306015
+node_678385351;Запутная;39.3040001;55.5725446;halt;;;;;1;https://www.openstreetmap.org/node/678385351
+node_688843256;Муриково;35.4055379;56.0317997;halt;;;;;1;https://www.openstreetmap.org/node/688843256
+node_690549778;Подмосковная;37.5269566;55.8145299;station;;;;;1;https://www.openstreetmap.org/node/690549778
+node_690925615;Морозки;37.5261866;56.2075032;halt;;;;;1;https://www.openstreetmap.org/node/690925615
+node_696838947;Щёлково;38.0093451;55.909255;station;;;;;1;https://www.openstreetmap.org/node/696838947
+node_706968848;203 км;39.7578899;54.6104724;halt;;;;;1;https://www.openstreetmap.org/node/706968848
+node_716229330;199 км;36.7574023;55.6446428;halt;;;;;1;https://www.openstreetmap.org/node/716229330
+node_716230879;Акулово;36.6893603;55.5024393;station;;;;;1;https://www.openstreetmap.org/node/716230879
+node_727674830;Латышская;36.7053533;55.359377;station;;;;;1;https://www.openstreetmap.org/node/727674830
+node_731942365;Ратмирово;38.6741746;55.2729077;halt;;;;;1;https://www.openstreetmap.org/node/731942365
+node_763172748;Колменка;38.4190027;54.7216013;halt;;;;;1;https://www.openstreetmap.org/node/763172748
+node_832528872;224 км;36.9922589;54.5029042;halt;;;;;1;https://www.openstreetmap.org/node/832528872
+node_838984124;Посёлок Киевский;36.8656558;55.4248481;halt;;;;;1;https://www.openstreetmap.org/node/838984124
+node_842091427;241 км;36.9098884;55.3791124;halt;;;;;1;https://www.openstreetmap.org/node/842091427
+node_877460620;Мачихино;36.9391303;55.3406979;halt;;;;;1;https://www.openstreetmap.org/node/877460620
+node_877460650;274 км;37.3273227;55.2470956;halt;;;;;1;https://www.openstreetmap.org/node/877460650
+node_877460725;283 км;37.4821488;55.258147;halt;;;;;1;https://www.openstreetmap.org/node/877460725
+node_892874466;Пионерская;38.1571852;55.5885595;station;;;;;1;https://www.openstreetmap.org/node/892874466
+node_900747545;Машиностроитель;38.4547593;55.8007194;halt;;;;;1;https://www.openstreetmap.org/node/900747545
+node_900759993;Дрезна;38.8536601;55.7480329;station;;;;;1;https://www.openstreetmap.org/node/900759993
+node_900782882;Юрьевец;40.2801269;56.0927418;station;;;;;1;https://www.openstreetmap.org/node/900782882
+node_903674838;298 км;37.6269817;55.1710435;halt;;;;;1;https://www.openstreetmap.org/node/903674838
+node_904526692;Беззубово;38.9433183;55.4441344;halt;;;;;1;https://www.openstreetmap.org/node/904526692
+node_904599904;Тасин;40.1914951;55.5163136;halt;;;;;1;https://www.openstreetmap.org/node/904599904
+node_904611288;Осаново;39.6594365;55.4739679;halt;;;;;1;https://www.openstreetmap.org/node/904611288
+node_908570098;Переславль;38.886651;56.7349277;station;;;;;1;https://www.openstreetmap.org/node/908570098
+node_910803896;Полотняный завод;35.9722157;54.7288765;station;;;;;1;https://www.openstreetmap.org/node/910803896
+node_910803910;Копытцево;36.1268996;54.6498387;station;;;;;1;https://www.openstreetmap.org/node/910803910
+node_913790568;Серпухов-Ветка;37.3952037;54.9238999;station;;;;;1;https://www.openstreetmap.org/node/913790568
+node_913790572;92 км;37.4618923;54.9955313;halt;;;;;1;https://www.openstreetmap.org/node/913790572
+node_913811965;Усады-Окружные;37.8965463;55.1547765;station;;;;;1;https://www.openstreetmap.org/node/913811965
+node_913811972;312 км;37.8407443;55.1725532;halt;;;;;1;https://www.openstreetmap.org/node/913811972
+node_913831415;Осёнка;38.5279031;55.1880628;halt;;;;;1;https://www.openstreetmap.org/node/913831415
+node_913831419;328 км;38.0314452;55.1180304;halt;;;;;1;https://www.openstreetmap.org/node/913831419
+node_913831423;341 км;38.2122857;55.1098392;halt;;;;;1;https://www.openstreetmap.org/node/913831423
+node_913831440;Шкинь;38.4808211;55.1779846;halt;;;;;1;https://www.openstreetmap.org/node/913831440
+node_913831445;Лесные Дары;38.4344489;55.1681289;halt;;;;;1;https://www.openstreetmap.org/node/913831445
+node_913831455;Шубатово;38.412325;55.1484257;halt;;;;;1;https://www.openstreetmap.org/node/913831455
+node_913831458;Малино;38.1658883;55.122304;station;;;;;1;https://www.openstreetmap.org/node/913831458
+node_913831459;Мякинино;38.3789633;55.1298356;halt;;;;;1;https://www.openstreetmap.org/node/913831459
+node_913831460;332 км;38.0923062;55.116229;halt;;;;;1;https://www.openstreetmap.org/node/913831460
+node_913870484;Гаврилов Посад;40.1210163;56.5666198;station;;;;;1;https://www.openstreetmap.org/node/913870484
+node_913870517;Леднево;39.862681;56.4898786;halt;;;;;1;https://www.openstreetmap.org/node/913870517
+node_913870569;166 км;39.2981924;56.2708977;halt;;;;;1;https://www.openstreetmap.org/node/913870569
+node_915608304;Бабынино;35.7393046;54.3880681;station;;;;;1;https://www.openstreetmap.org/node/915608304
+node_916328048;Стопкино;36.3889869;54.6007811;halt;;;;;1;https://www.openstreetmap.org/node/916328048
+node_916328051;Перерушево;36.6278575;54.5295466;halt;;;;;1;https://www.openstreetmap.org/node/916328051
+node_916328054;217 км;36.8831636;54.5022921;halt;;;;;1;https://www.openstreetmap.org/node/916328054
+node_916354246;Говардово;35.9157078;54.7736651;station;;;;;1;https://www.openstreetmap.org/node/916354246
+node_916354247;69 км;35.2206947;55.0054185;halt;;;;;1;https://www.openstreetmap.org/node/916354247
+node_916354272;77 км;35.3348256;54.9821766;halt;;;;;1;https://www.openstreetmap.org/node/916354272
+node_934871330;Пчеловодное;38.2097522;54.7117731;halt;;;;;1;https://www.openstreetmap.org/node/934871330
+node_935910835;Кресты;37.1053916;55.275827;station;;;;;1;https://www.openstreetmap.org/node/935910835
+node_1032453890;Новогромово;37.2311267;55.264168;halt;;;;;1;https://www.openstreetmap.org/node/1032453890
+node_1037252949;Озёры;38.5669099;54.8610665;station;;;;;1;https://www.openstreetmap.org/node/1037252949
+node_1042512214;Зарайск;38.883185;54.7685607;station;;;;;1;https://www.openstreetmap.org/node/1042512214
+node_1062135937;Лефортово;37.7460652;55.7627946;station;;;;;1;https://www.openstreetmap.org/node/1062135937
+node_1062474614;Владыкино-Московское;37.5962705;55.847279;station;;;;;1;https://www.openstreetmap.org/node/1062474614
+node_1062480585;Новопролетарская;37.730944;55.7242373;station;;;;;1;https://www.openstreetmap.org/node/1062480585
+node_1062487275;Серебряный Бор;37.4954545;55.8031708;station;;;;;1;https://www.openstreetmap.org/node/1062487275
+node_1108910239;252 км;40.1950307;54.3672699;halt;;;;;1;https://www.openstreetmap.org/node/1108910239
+node_1109313905;Столбовая;37.4936283;55.2485663;station;;;;;1;https://www.openstreetmap.org/node/1109313905
+node_1109322547;Авангард;37.451095;54.9606545;halt;;;;;1;https://www.openstreetmap.org/node/1109322547
+node_1124830448;Летники;40.2600741;55.1215528;halt;;;;;1;https://www.openstreetmap.org/node/1124830448
+node_1136485533;232 км;37.0597257;54.501017;halt;;;;;1;https://www.openstreetmap.org/node/1136485533
+node_1145722295;Заводская;37.7640438;55.563735;station;;;;;1;https://www.openstreetmap.org/node/1145722295
+node_1157491393;Сотниково;38.151125;55.0586806;station;;;;;1;https://www.openstreetmap.org/node/1157491393
+node_1167209019;Москва-Товарная-Смоленская;37.5564951;55.7721776;station;;;;;1;https://www.openstreetmap.org/node/1167209019
+node_1182571533;Кашира-Товарная;38.1611487;54.8468576;station;;;;;1;https://www.openstreetmap.org/node/1182571533
+node_1218837710;Конаково ГРЭС;36.788521;56.7176138;station;;;;;1;https://www.openstreetmap.org/node/1218837710
+node_1232332622;Зубово;38.3028296;54.7753736;halt;;;;;1;https://www.openstreetmap.org/node/1232332622
+node_1232338305;162 км;38.6470142;54.4961683;halt;;;;;1;https://www.openstreetmap.org/node/1232338305
+node_1232338310;Новосёлки;38.6103608;54.5858825;halt;;;;;1;https://www.openstreetmap.org/node/1232338310
+node_1232342044;Кораблёвка;38.7676261;54.3957229;halt;;;;;1;https://www.openstreetmap.org/node/1232342044
+node_1232342049;Дудино-Серебряное;38.6646648;54.4782302;halt;;;;;1;https://www.openstreetmap.org/node/1232342049
+node_1232383994;133 км;35.8290833;55.9959909;halt;;;;;1;https://www.openstreetmap.org/node/1232383994
+node_1232387707;Шаховская;35.5117763;56.0298825;station;;;;;1;https://www.openstreetmap.org/node/1232387707
+node_1233148361;147 км;35.4906551;55.5207572;halt;;;;;1;https://www.openstreetmap.org/node/1233148361
+node_1237081656;Красногорская;37.3031942;55.8147417;halt;;;;;1;https://www.openstreetmap.org/node/1237081656
+node_1239263225;155 км;37.0109953;55.9613162;halt;;;;;1;https://www.openstreetmap.org/node/1239263225
+node_1250950202;116 км;37.4243252;56.1256526;halt;;;;;1;https://www.openstreetmap.org/node/1250950202
+node_1267446918;Малиновка;37.1553863;55.8550943;halt;;;;;1;https://www.openstreetmap.org/node/1267446918
+node_1327737603;Ферзиково;36.7613892;54.5144941;station;;;;;1;https://www.openstreetmap.org/node/1327737603
+node_1364937500;Кашира-Силовая;38.241923;54.8557239;station;;;;;1;https://www.openstreetmap.org/node/1364937500
+node_1377094852;Осановец;39.9873012;56.5670142;halt;;;;;1;https://www.openstreetmap.org/node/1377094852
+node_1380353785;Чертаново;37.6273775;55.631036;halt;;;;;1;https://www.openstreetmap.org/node/1380353785
+node_1387795431;Канатчиково;37.591367;55.7017698;station;;;;;1;https://www.openstreetmap.org/node/1387795431
+node_1402716533;Брянцево;35.7966976;56.9008199;halt;;;;;1;https://www.openstreetmap.org/node/1402716533
+node_1405332172;Пресня;37.5171072;55.7665972;station;;;;;1;https://www.openstreetmap.org/node/1405332172
+node_1433328212;Венёв;38.2433159;54.3479047;station;;;;;1;https://www.openstreetmap.org/node/1433328212
+node_1467468087;Николаевка;37.6434145;55.7936401;station;;;;;1;https://www.openstreetmap.org/node/1467468087
+node_1659073571;Садовая;36.4021798;55.5536108;halt;;;;;1;https://www.openstreetmap.org/node/1659073571
+node_1659073578;Театральная;36.4484032;55.5850383;halt;;;;;1;https://www.openstreetmap.org/node/1659073578
+node_1668628211;Купавна;38.1210763;55.7531599;station;;;;;1;https://www.openstreetmap.org/node/1668628211
+node_1668862706;81 км;35.3991329;54.9677343;halt;;;;;1;https://www.openstreetmap.org/node/1668862706
+node_1694252417;Смолево;38.6923471;55.5899843;halt;;;;;1;https://www.openstreetmap.org/node/1694252417
+node_1699176826;177 км;36.8242611;55.8141094;halt;;;;;1;https://www.openstreetmap.org/node/1699176826
+node_1705951317;Москва-Пассажирская-Павелецкая;37.6410311;55.7290949;station;;;;;1;https://www.openstreetmap.org/node/1705951317
+node_1712432461;Редкино;36.295507;56.6454421;station;;;;;1;https://www.openstreetmap.org/node/1712432461
+node_1717991833;Кулицкая;35.6787865;56.9786396;halt;;;;;1;https://www.openstreetmap.org/node/1717991833
+node_1720249701;Жилино;37.0475764;55.9945519;halt;;;;;1;https://www.openstreetmap.org/node/1720249701
+node_1789031210;Плющево;37.7741613;55.7308523;halt;;;;;1;https://www.openstreetmap.org/node/1789031210
+node_1807089738;Радуга;38.3987694;55.4839615;halt;;;;;1;https://www.openstreetmap.org/node/1807089738
+node_1822743427;Некрасово;37.4874057;54.2551889;station;;;;;1;https://www.openstreetmap.org/node/1822743427
+node_1823703863;Пахомово;37.5489;54.6267;halt;;;;;1;https://www.openstreetmap.org/node/1823703863
+node_1825716114;Стенькино-II;39.7485483;54.5460897;station;;;;;1;https://www.openstreetmap.org/node/1825716114
+node_1825749304;Варские;39.8594896;54.6977782;station;;;;;1;https://www.openstreetmap.org/node/1825749304
+node_1830063391;Плеханово;37.5575068;54.2352588;station;;;;;1;https://www.openstreetmap.org/node/1830063391
+node_1834449976;Поварово III;37.0565584;56.0466815;station;;;;;1;https://www.openstreetmap.org/node/1834449976
+node_1834455155;Белый Раст;37.4584299;56.1258243;station;;;;;1;https://www.openstreetmap.org/node/1834455155
+node_1834455159;Поварово II;37.1133777;56.0742871;station;;;;;1;https://www.openstreetmap.org/node/1834455159
+node_1838604898;Княжьи Горы;35.235657;56.0748578;station;;;;;1;https://www.openstreetmap.org/node/1838604898
+node_1843632054;Благовещенское;35.7863201;55.9941198;station;;;;;1;https://www.openstreetmap.org/node/1843632054
+node_1844696717;165 км;35.3702709;56.0500602;halt;;;;;1;https://www.openstreetmap.org/node/1844696717
+node_1844696719;167 км;35.3239954;56.0560916;halt;;;;;1;https://www.openstreetmap.org/node/1844696719
+node_1844696720;180 км;35.1422857;56.0923119;halt;;;;;1;https://www.openstreetmap.org/node/1844696720
+node_1906706094;Электрогорск;38.7875146;55.8828788;station;;;;;1;https://www.openstreetmap.org/node/1906706094
+node_1908823957;Козловка;39.3159964;54.7073455;halt;;;;;1;https://www.openstreetmap.org/node/1908823957
+node_1908953008;35 км;39.0499348;54.6438092;halt;;;;;1;https://www.openstreetmap.org/node/1908953008
+node_1910205907;Вышгород;40.0369017;54.5119687;halt;;;;;1;https://www.openstreetmap.org/node/1910205907
+node_1914854516;Кипрево;38.995288;56.239275;station;;;;;1;https://www.openstreetmap.org/node/1914854516
+node_1914955394;Латыгоры;39.23055;54.7087116;halt;;;;;1;https://www.openstreetmap.org/node/1914955394
+node_1915366736;Житово;39.3626416;54.715844;halt;;;;;1;https://www.openstreetmap.org/node/1915366736
+node_1915790743;Валищево;39.4289482;54.7304558;halt;;;;;1;https://www.openstreetmap.org/node/1915790743
+node_1915811736;Клёмово;38.7472832;54.5391041;halt;;;;;1;https://www.openstreetmap.org/node/1915811736
+node_1915869868;Разъезд 12 км;38.7765092;54.5411512;halt;;;;;1;https://www.openstreetmap.org/node/1915869868
+node_1932792698;Одинцово;37.2818162;55.6719892;station;;;;;1;https://www.openstreetmap.org/node/1932792698
+node_1940178084;Рязань-I;39.713368;54.6337015;station;;;;;1;https://www.openstreetmap.org/node/1940178084
+node_1942186702;Недостоево;39.6066094;54.6791955;halt;;;;;1;https://www.openstreetmap.org/node/1942186702
+node_1960526558;Крушма;36.8572134;54.2100977;halt;;;;;1;https://www.openstreetmap.org/node/1960526558
+node_1960526684;Связист;36.8089699;54.2104958;halt;;;;;1;https://www.openstreetmap.org/node/1960526684
+node_1960533866;Батьково;36.9250942;54.2103674;halt;;;;;1;https://www.openstreetmap.org/node/1960533866
+node_1976985015;Садовая;36.2055463;54.6129268;halt;;;;;1;https://www.openstreetmap.org/node/1976985015
+node_1979710693;Приозёрное;40.0331548;54.8095801;halt;;;;;1;https://www.openstreetmap.org/node/1979710693
+node_1985948187;Лосиноостровская;37.6832905;55.8626438;station;;;;;1;https://www.openstreetmap.org/node/1985948187
+node_1985948190;Лось;37.7103198;55.8798478;halt;;;;;1;https://www.openstreetmap.org/node/1985948190
+node_1985948193;Ростокино;37.6698673;55.8410132;halt;;;;;1;https://www.openstreetmap.org/node/1985948193
+node_1987281811;Арсаки;38.4595689;56.3832946;station;;;;;1;https://www.openstreetmap.org/node/1987281811
+node_1987281823;Перловская;37.7247552;55.8891155;halt;;;;;1;https://www.openstreetmap.org/node/1987281823
+node_1987281826;Тайнинская;37.7424432;55.9007891;halt;;;;;1;https://www.openstreetmap.org/node/1987281826
+node_1987604386;Строитель;37.7832431;55.9330312;halt;;;;;1;https://www.openstreetmap.org/node/1987604386
+node_1987604390;Тарасовская;37.8087433;55.9620369;halt;;;;;1;https://www.openstreetmap.org/node/1987604390
+node_1987604398;Челюскинская;37.7998727;55.9477624;halt;;;;;1;https://www.openstreetmap.org/node/1987604398
+node_1987608520;Тверь;35.8929604;56.8351458;station;;;;;1;https://www.openstreetmap.org/node/1987608520
+node_1987887001;Новопетровская;36.4720664;55.9964103;halt;;;;;1;https://www.openstreetmap.org/node/1987887001
+node_1987887004;Румянцево;36.541646;55.973507;station;;;;;1;https://www.openstreetmap.org/node/1987887004
+node_1987901070;Кучино;37.9547503;55.7521154;halt;;;;;1;https://www.openstreetmap.org/node/1987901070
+node_1987909680;Конев Бор;38.7788399;55.1912697;halt;;;;;1;https://www.openstreetmap.org/node/1987909680
+node_1987909698;Пески;38.7715868;55.21594;station;;;;;1;https://www.openstreetmap.org/node/1987909698
+node_1987909702;Цемгигант;38.7554475;55.2510416;halt;;;;;1;https://www.openstreetmap.org/node/1987909702
+node_1987915416;Жаворонки;37.0974868;55.6419554;halt;;;;;1;https://www.openstreetmap.org/node/1987915416
+node_1987939214;Калитники;37.7026604;55.7336718;halt;;;;;1;https://www.openstreetmap.org/node/1987939214
+node_1987939218;Царицыно;37.6688476;55.6185151;station;;;;;1;https://www.openstreetmap.org/node/1987939218
+node_1987941100;Молоди;37.5048102;55.2808875;halt;;;;;1;https://www.openstreetmap.org/node/1987941100
+node_1987941102;Львовская;37.5154586;55.3123577;station;;;;;1;https://www.openstreetmap.org/node/1987941102
+node_1988289122;Фирсановская;37.2496983;55.9606235;halt;;;;;1;https://www.openstreetmap.org/node/1988289122
+node_1988800418;Люблино-Сортировочное;37.7300731;55.6715844;station;;;;;1;https://www.openstreetmap.org/node/1988800418
+node_1989061172;Воскресенск;38.7019393;55.3129901;station;;;;;1;https://www.openstreetmap.org/node/1989061172
+node_1989061176;Лопатино;38.7344453;55.354922;halt;;;;;1;https://www.openstreetmap.org/node/1989061176
+node_1989061178;Москворецкая;38.7440114;55.2703695;halt;;;;;1;https://www.openstreetmap.org/node/1989061178
+node_1989061180;Трофимово;38.6858229;55.3666564;halt;;;;;1;https://www.openstreetmap.org/node/1989061180
+node_1989061182;Шиферная;38.7364654;55.2831279;station;;;;;1;https://www.openstreetmap.org/node/1989061182
+node_1990541219;Депо;37.7281785;55.6742129;halt;;;;;1;https://www.openstreetmap.org/node/1990541219
+node_1990631971;Битца;37.611564;55.5712828;halt;;;;;1;https://www.openstreetmap.org/node/1990631971
+node_1990631973;Бутово;37.570569;55.5413464;halt;;;;;1;https://www.openstreetmap.org/node/1990631973
+node_1990631995;Савёловская;37.5907321;55.7948379;halt;;;;;1;https://www.openstreetmap.org/node/1990631995
+node_1990632001;Силикатная;37.5554476;55.4704356;halt;;;;;1;https://www.openstreetmap.org/node/1990632001
+node_1990632020;Сушкинская;36.8738108;55.6112063;halt;;;;;1;https://www.openstreetmap.org/node/1990632020
+node_1990632023;Часцовская;36.7864249;55.5962422;halt;;;;;1;https://www.openstreetmap.org/node/1990632023
+node_1990632026;Чепелёво;37.4867332;55.1821393;halt;;;;;1;https://www.openstreetmap.org/node/1990632026
+node_1990632031;Чехов;37.4900294;55.1495261;station;;;;;1;https://www.openstreetmap.org/node/1990632031
+node_1990632047;Щербинка;37.5621844;55.5101252;station;;;;;1;https://www.openstreetmap.org/node/1990632047
+node_1991411798;Апрелевка;37.0668777;55.5500875;station;;;;;1;https://www.openstreetmap.org/node/1991411798
+node_1991411801;Победа;37.0927458;55.5660688;halt;;;;;1;https://www.openstreetmap.org/node/1991411801
+node_1991442433;Дачная;37.0362931;55.5404743;halt;;;;;1;https://www.openstreetmap.org/node/1991442433
+node_1991442436;Кокошкино;37.1711886;55.5997295;halt;;;;;1;https://www.openstreetmap.org/node/1991442436
+node_1991442439;Крёкшино;37.1097363;55.5778111;station;;;;;1;https://www.openstreetmap.org/node/1991442439
+node_1991442444;Селятино;36.96727;55.51659;station;;;;;1;https://www.openstreetmap.org/node/1991442444
+node_1994411882;Берёзки-Дачные;37.0318238;56.1097705;halt;;;;;1;https://www.openstreetmap.org/node/1994411882
+node_1994411890;Бескудниково;37.5677763;55.882782;station;;;;;1;https://www.openstreetmap.org/node/1994411890
+node_1994411894;Водники;37.5123821;55.9526464;halt;;;;;1;https://www.openstreetmap.org/node/1994411894
+node_1994411898;Дегунино;37.5730917;55.8659187;halt;;;;;1;https://www.openstreetmap.org/node/1994411898
+node_1994411900;Депо;37.4865196;56.0280903;halt;;;;;1;https://www.openstreetmap.org/node/1994411900
+node_1994411903;Долгопрудная;37.5199873;55.9401269;halt;;;;;1;https://www.openstreetmap.org/node/1994411903
+node_1994411907;Крюково;37.1739643;55.9802209;station;;;;;1;https://www.openstreetmap.org/node/1994411907
+node_1994411912;Лианозово;37.5491055;55.8988389;halt;;;;;1;https://www.openstreetmap.org/node/1994411912
+node_1994411919;Марк;37.5382527;55.9045015;station;;;;;1;https://www.openstreetmap.org/node/1994411919
+node_1994411922;Новодачная;37.5279971;55.9243032;halt;;;;;1;https://www.openstreetmap.org/node/1994411922
+node_1994411924;Окружная;37.574264;55.8475891;halt;;;;;1;https://www.openstreetmap.org/node/1994411924
+node_1994411933;Радищево;37.1022838;56.0416126;halt;;;;;1;https://www.openstreetmap.org/node/1994411933
+node_1994411938;Хлебниково;37.5045115;55.9709578;halt;;;;;1;https://www.openstreetmap.org/node/1994411938
+node_1994411941;Шереметьевская;37.498885;55.9837326;halt;;;;;1;https://www.openstreetmap.org/node/1994411941
+node_1994527059;Красный Строитель;37.615322;55.5903775;station;;;;;1;https://www.openstreetmap.org/node/1994527059
+node_1994609540;Чеховская;36.7973995;55.9117141;halt;;;;;1;https://www.openstreetmap.org/node/1994609540
+node_1994609541;Новоиерусалимская;36.8225052;55.9116992;station;;;;;1;https://www.openstreetmap.org/node/1994609541
+node_1994609542;Снегири;37.0382393;55.8801086;station;;;;;1;https://www.openstreetmap.org/node/1994609542
+node_1994609582;Белоозёрская;38.4490999;55.4622265;halt;;;;;1;https://www.openstreetmap.org/node/1994609582
+node_1994609584;Бронницы;38.3627327;55.4989947;station;;;;;1;https://www.openstreetmap.org/node/1994609584
+node_1994609589;Быково;38.0712553;55.6266127;station;;;;;1;https://www.openstreetmap.org/node/1994609589
+node_1994609593;Вешняки;37.7982915;55.722381;halt;;;;;1;https://www.openstreetmap.org/node/1994609593
+node_1994609599;Волоколамск;35.9361958;55.9936818;station;;;;;1;https://www.openstreetmap.org/node/1994609599
+node_1994609602;Выхино;37.8172254;55.7161695;halt;;;;;1;https://www.openstreetmap.org/node/1994609602
+node_1994609607;Вялки;38.1118755;55.6479884;halt;;;;;1;https://www.openstreetmap.org/node/1994609607
+node_1994609610;Гжель;38.4455487;55.6092322;station;;;;;1;https://www.openstreetmap.org/node/1994609610
+node_1994609615;Григорово;38.3902299;55.6252395;halt;;;;;1;https://www.openstreetmap.org/node/1994609615
+node_1994609620;Дубосеково;36.0394205;55.9786358;halt;;;;;1;https://www.openstreetmap.org/node/1994609620
+node_1994609623;Есино;38.3785073;55.7202615;halt;;;;;1;https://www.openstreetmap.org/node/1994609623
+node_1994609626;Золотово;38.5248629;55.4358299;halt;;;;;1;https://www.openstreetmap.org/node/1994609626
+node_1994609628;Ильинская;38.100266;55.6163469;halt;;;;;1;https://www.openstreetmap.org/node/1994609628
+node_1994609636;Конобеево;38.6559731;55.405889;halt;;;;;1;https://www.openstreetmap.org/node/1994609636
+node_1994609638;Коренёво;38.0006963;55.6681327;halt;;;;;1;https://www.openstreetmap.org/node/1994609638
+node_1994609642;Косино;37.8474691;55.7059572;halt;;;;;1;https://www.openstreetmap.org/node/1994609642
+node_1994609645;Красково;37.9822693;55.6498722;halt;;;;;1;https://www.openstreetmap.org/node/1994609645
+node_1994609647;Кратово;38.1602062;55.5918258;halt;;;;;1;https://www.openstreetmap.org/node/1994609647
+node_1994609650;Курсаковская;36.5705414;55.9622187;halt;;;;;1;https://www.openstreetmap.org/node/1994609650
+node_1994609655;Люберцы I;37.896703;55.68249;station;;;;;1;https://www.openstreetmap.org/node/1994609655
+node_1994609660;Люберцы II;37.9333995;55.6726546;station;;;;;1;https://www.openstreetmap.org/node/1994609660
+node_1994609663;Малаховка;38.0074342;55.6454061;halt;;;;;1;https://www.openstreetmap.org/node/1994609663
+node_1994609665;Манихино I;36.9294917;55.8906843;station;;;;;1;https://www.openstreetmap.org/node/1994609665
+node_1994609667;Матрёнино;36.09305;56.0047654;halt;;;;;1;https://www.openstreetmap.org/node/1994609667
+node_1994609668;Металлург;38.4685007;55.7694097;halt;;;;;1;https://www.openstreetmap.org/node/1994609668
+node_1994609671;Миитовская;37.1035725;55.8744135;halt;;;;;1;https://www.openstreetmap.org/node/1994609671
+node_1994609683;Авиамоторная;37.7219166;55.7503185;halt;;;;;1;https://www.openstreetmap.org/node/1994609683
+node_1994609699;Овражки;38.0334718;55.6647236;station;;;;;1;https://www.openstreetmap.org/node/1994609699
+node_1994609717;Отдых;38.1369928;55.6013753;halt;;;;;1;https://www.openstreetmap.org/node/1994609717
+node_1994609723;Панки;37.9231147;55.6687009;halt;;;;;1;https://www.openstreetmap.org/node/1994609723
+node_1994609746;Перово;37.7644261;55.7358077;station;;;;;1;https://www.openstreetmap.org/node/1994609746
+node_1994609766;Покровское;37.6319239;55.6027613;halt;;;;;1;https://www.openstreetmap.org/node/1994609766
+node_1994609794;Раменское;38.2262173;55.5651537;station;;;;;1;https://www.openstreetmap.org/node/1994609794
+node_1994609818;Совхоз;38.2941047;55.5408227;halt;;;;;1;https://www.openstreetmap.org/node/1994609818
+node_1994609821;Томилино;37.9550406;55.6550749;halt;;;;;1;https://www.openstreetmap.org/node/1994609821
+node_1994609824;Троицкая;36.9009936;55.8861918;halt;;;;;1;https://www.openstreetmap.org/node/1994609824
+node_1994609829;Ухтомская;37.8645031;55.6986272;halt;;;;;1;https://www.openstreetmap.org/node/1994609829
+node_1994609835;Фабричная;38.2065967;55.5728488;halt;;;;;1;https://www.openstreetmap.org/node/1994609835
+node_1994609837;Фаустово;38.4958861;55.4452802;station;;;;;1;https://www.openstreetmap.org/node/1994609837
+node_1994609840;Андроновка;37.7408127;55.7447009;halt;;;;;1;https://www.openstreetmap.org/node/1994609840
+node_1994609852;Чисмена;36.2151647;56.0185109;station;;;;;1;https://www.openstreetmap.org/node/1994609852
+node_1994609854;Чёрная;38.9182073;55.0266367;halt;;;;;1;https://www.openstreetmap.org/node/1994609854
+node_1994609856;Шатура;39.520419;55.5731624;station;;;;;1;https://www.openstreetmap.org/node/1994609856
+node_1994609861;Ядрошино;36.6133821;55.9478693;halt;;;;;1;https://www.openstreetmap.org/node/1994609861
+node_1994609868;Есенинская;38.1834318;55.5823579;halt;;;;;1;https://www.openstreetmap.org/node/1994609868
+node_1994609871;Ипподром;38.238988;55.5604851;halt;;;;;1;https://www.openstreetmap.org/node/1994609871
+node_1994609877;Цибино;38.4267622;55.4723663;halt;;;;;1;https://www.openstreetmap.org/node/1994609877
+node_1994609879;73 км;36.6449063;55.9396463;halt;;;;;1;https://www.openstreetmap.org/node/1994609879
+node_1994609881;88 км;38.6855924;55.3273054;halt;;;;;1;https://www.openstreetmap.org/node/1994609881
+node_1994609889;91 км;36.4109187;55.9913518;halt;;;;;1;https://www.openstreetmap.org/node/1994609889
+node_1994637868;Михнево;37.9607392;55.1208657;station;;;;;1;https://www.openstreetmap.org/node/1994637868
+node_1994637881;Химки;37.4536637;55.8936153;station;;;;;1;https://www.openstreetmap.org/node/1994637881
+node_1994650454;Беговая;37.5403967;55.7716951;halt;;;;;1;https://www.openstreetmap.org/node/1994650454
+node_1994650464;Рабочий Посёлок;37.418512;55.726968;halt;;;;;1;https://www.openstreetmap.org/node/1994650464
+node_1994650466;Ромашково;37.3476164;55.7341731;halt;;;;;1;https://www.openstreetmap.org/node/1994650466
+node_1994650475;Фили;37.514551;55.7440926;station;;;;;1;https://www.openstreetmap.org/node/1994650475
+node_1994671353;Моссельмаш;37.5283556;55.8617302;halt;;;;;1;https://www.openstreetmap.org/node/1994671353
+node_1994671356;Лихоборы;37.5521848;55.8502936;halt;;;;;1;https://www.openstreetmap.org/node/1994671356
+node_1994671361;Останкино;37.6032169;55.8175016;halt;;;;;1;https://www.openstreetmap.org/node/1994671361
+node_1994671368;Петровско-Разумовская;37.5687175;55.8396207;halt;;;;;1;https://www.openstreetmap.org/node/1994671368
+node_1994682619;Решетниково;36.5674002;56.449125;station;;;;;1;https://www.openstreetmap.org/node/1994682619
+node_1994682633;Завидово;36.4379135;56.5518224;station;;;;;1;https://www.openstreetmap.org/node/1994682633
+node_1994682639;Клин;36.7115625;56.330954;station;;;;;1;https://www.openstreetmap.org/node/1994682639
+node_1994682649;Кусково;37.7953827;55.7397339;station;;;;;1;https://www.openstreetmap.org/node/1994682649
+node_2000351174;Весенняя;37.534593;55.3852867;halt;;;;;1;https://www.openstreetmap.org/node/2000351174
+node_2000351176;Головково;36.8844323;56.2225498;halt;;;;;1;https://www.openstreetmap.org/node/2000351176
+node_2000351183;Подольск;37.5654172;55.4317986;station;;;;;1;https://www.openstreetmap.org/node/2000351183
+node_2000351187;Подсолнечная;36.9715758;56.1843035;station;;;;;1;https://www.openstreetmap.org/node/2000351187
+node_2000351189;Покровка;36.8284137;56.237805;halt;;;;;1;https://www.openstreetmap.org/node/2000351189
+node_2000351190;Сенеж;36.9346672;56.2065488;halt;;;;;1;https://www.openstreetmap.org/node/2000351190
+node_2000351191;Стреглово;36.7367293;56.298648;halt;;;;;1;https://www.openstreetmap.org/node/2000351191
+node_2000351192;Фроловское;36.7604091;56.2695763;halt;;;;;1;https://www.openstreetmap.org/node/2000351192
+node_2000366934;Платовская;36.0655098;55.4942152;halt;;;;;1;https://www.openstreetmap.org/node/2000366934
+node_2000431023;Красный Балтиец;37.5248787;55.8154548;halt;;;;;1;https://www.openstreetmap.org/node/2000431023
+node_2000431032;Сортировочная;37.7207756;55.7635658;halt;;;;;1;https://www.openstreetmap.org/node/2000431032
+node_2000431034;Узуново;38.6201014;54.5450963;station;;;;;1;https://www.openstreetmap.org/node/2000431034
+node_2000431037;Электрозаводская;37.7053772;55.7811057;halt;;;;;1;https://www.openstreetmap.org/node/2000431037
+node_2000568564;Барыбино;37.8959269;55.2702328;station;;;;;1;https://www.openstreetmap.org/node/2000568564
+node_2000568565;Белые Столбы;37.8509317;55.3334705;station;;;;;1;https://www.openstreetmap.org/node/2000568565
+node_2000568566;Взлётная;37.8054339;55.3950272;halt;;;;;1;https://www.openstreetmap.org/node/2000568566
+node_2000568569;Ленинская;37.7312745;55.4886334;halt;;;;;1;https://www.openstreetmap.org/node/2000568569
+node_2000568584;32 км;37.7474946;55.4728668;halt;;;;;1;https://www.openstreetmap.org/node/2000568584
+node_2001755270;Аникеевка;37.2200282;55.8320515;halt;;;;;1;https://www.openstreetmap.org/node/2001755270
+node_2001755273;Дедовск;37.1256813;55.8667313;station;;;;;1;https://www.openstreetmap.org/node/2001755273
+node_2001755276;Нахабино;37.184911;55.8415879;station;;;;;1;https://www.openstreetmap.org/node/2001755276
+node_2001755278;Опалиха;37.2485361;55.822766;halt;;;;;1;https://www.openstreetmap.org/node/2001755278
+node_2001755280;Павшино;37.3395149;55.8148976;station;;;;;1;https://www.openstreetmap.org/node/2001755280
+node_2001755282;Вельяминово;37.9211447;55.2045801;halt;;;;;1;https://www.openstreetmap.org/node/2001755282
+node_2001755295;Привалово;37.9382517;55.1699147;halt;;;;;1;https://www.openstreetmap.org/node/2001755295
+node_2001755299;Расторгуево;37.6864421;55.5481921;halt;;;;;1;https://www.openstreetmap.org/node/2001755299
+node_2001755300;Тимирязевская;37.5760049;55.8192175;halt;;;;;1;https://www.openstreetmap.org/node/2001755300
+node_2001755301;Трикотажная;37.3993378;55.833085;halt;;;;;1;https://www.openstreetmap.org/node/2001755301
+node_2001755305;Тушинская;37.4410998;55.8270524;station;;;;;1;https://www.openstreetmap.org/node/2001755305
+node_2001755309;Калинина;37.7079731;55.5166157;halt;;;;;1;https://www.openstreetmap.org/node/2001755309
+node_2005745394;Крутое;39.0051657;55.8112454;halt;;;;;1;https://www.openstreetmap.org/node/2005745394
+node_2005745397;Орехово-Зуево;38.9756838;55.7953125;station;;;;;1;https://www.openstreetmap.org/node/2005745397
+node_2005873624;Давыдово;38.8799985;55.6102913;station;;;;;1;https://www.openstreetmap.org/node/2005873624
+node_2005873629;Ильинский Погост;38.9171198;55.4782337;station;;;;;1;https://www.openstreetmap.org/node/2005873629
+node_2005873632;Нерская;38.8771011;55.5536177;station;;;;;1;https://www.openstreetmap.org/node/2005873632
+node_2005883653;Домодедово;37.7731873;55.4400646;station;;;;;1;https://www.openstreetmap.org/node/2005883653
+node_2007383838;Куровская;38.9215575;55.5731427;station;;;;;1;https://www.openstreetmap.org/node/2007383838
+node_2007383841;Локомотивное Депо;38.9508077;55.5713905;halt;;;;;1;https://www.openstreetmap.org/node/2007383841
+node_2010584464;Костёнково;39.2435847;54.7110656;halt;;;;;1;https://www.openstreetmap.org/node/2010584464
+node_2012486868;Новоподрезково;37.3510758;55.9370106;halt;;;;;1;https://www.openstreetmap.org/node/2012486868
+node_2012486869;Молжаниново;37.3813237;55.9242081;halt;;;;;1;https://www.openstreetmap.org/node/2012486869
+node_2012486870;Подрезково;37.330249;55.9426816;halt;;;;;1;https://www.openstreetmap.org/node/2012486870
+node_2012837210;Пролетарская;35.8555569;56.8506356;halt;;;;;1;https://www.openstreetmap.org/node/2012837210
+node_2012837222;Санаторий;35.7548271;56.9284819;halt;;;;;1;https://www.openstreetmap.org/node/2012837222
+node_2015028021;Зеленёво;39.8990364;54.5311956;halt;;;;;1;https://www.openstreetmap.org/node/2015028021
+node_2015028024;Листвянка;39.9760983;54.5111225;station;;;;;1;https://www.openstreetmap.org/node/2015028024
+node_2015028037;Турлатово;39.8360364;54.5508856;halt;;;;;1;https://www.openstreetmap.org/node/2015028037
+node_2015028041;227 км;40.0057517;54.4831729;halt;;;;;1;https://www.openstreetmap.org/node/2015028041
+node_2015034884;Денежниково;39.7905971;54.4730772;station;;;;;1;https://www.openstreetmap.org/node/2015034884
+node_2015034887;Лесок;39.7957133;54.5854401;station;;;;;1;https://www.openstreetmap.org/node/2015034887
+node_2015034893;Стенькино-I;39.7378679;54.5343002;station;;;;;1;https://www.openstreetmap.org/node/2015034893
+node_2015034894;204 км;39.6729587;54.581974;halt;;;;;1;https://www.openstreetmap.org/node/2015034894
+node_2015034895;210 км;39.7095106;54.5600647;halt;;;;;1;https://www.openstreetmap.org/node/2015034895
+node_2015034898;216 км;39.7458877;54.4941225;halt;;;;;1;https://www.openstreetmap.org/node/2015034898
+node_2016394653;Дягилево;39.6308884;54.6571958;station;;;;;1;https://www.openstreetmap.org/node/2016394653
+node_2016394674;187 км;39.5745924;54.6960666;halt;;;;;1;https://www.openstreetmap.org/node/2016394674
+node_2016410233;Дивово;39.4481831;54.8214334;station;;;;;1;https://www.openstreetmap.org/node/2016410233
+node_2016410234;Истодники;39.474823;54.7684998;halt;;;;;1;https://www.openstreetmap.org/node/2016410234
+node_2016410243;Рязань-2;39.6987885;54.6283653;station;;;;;1;https://www.openstreetmap.org/node/2016410243
+node_2016410246;Шевцово;39.8675416;54.3747791;halt;;;;;1;https://www.openstreetmap.org/node/2016410246
+node_2016410248;189 км;39.5950873;54.6860324;halt;;;;;1;https://www.openstreetmap.org/node/2016410248
+node_2016410249;226 км;39.8599197;54.4417829;halt;;;;;1;https://www.openstreetmap.org/node/2016410249
+node_2016433554;Депо;39.5330371;54.715352;halt;;;;;1;https://www.openstreetmap.org/node/2016433554
+node_2016456334;Макеево-Московское;39.1373445;54.6631837;station;;;;;1;https://www.openstreetmap.org/node/2016456334
+node_2016456336;Рыбное;39.5034765;54.7306791;station;;;;;1;https://www.openstreetmap.org/node/2016456336
+node_2016456338;Слемы;39.3963497;54.8515488;halt;;;;;1;https://www.openstreetmap.org/node/2016456338
+node_2016456341;Ходынино;39.522087;54.7213842;halt;;;;;1;https://www.openstreetmap.org/node/2016456341
+node_2016459761;231 км;40.032768;54.4505181;halt;;;;;1;https://www.openstreetmap.org/node/2016459761
+node_2023211069;Дербеневская;37.6433584;55.7175334;station;;;;;1;https://www.openstreetmap.org/node/2023211069
+node_2023211071;Нагатинская;37.6208766;55.6822514;halt;;;;;1;https://www.openstreetmap.org/node/2023211071
+node_2023311917;Старожилово;39.9297572;54.2806732;station;;;;;1;https://www.openstreetmap.org/node/2023311917
+node_2023327804;241 км;39.8829779;54.3119635;halt;;;;;1;https://www.openstreetmap.org/node/2023327804
+node_2023436702;Поваровка;37.0768059;56.0638507;halt;;;;;1;https://www.openstreetmap.org/node/2023436702
+node_2027728011;Верейкино;39.005147;54.6269413;halt;;;;;1;https://www.openstreetmap.org/node/2027728011
+node_2073467308;Стомна;38.223052;54.6246112;halt;;;;;1;https://www.openstreetmap.org/node/2073467308
+node_2076621418;Перевлес;40.1872279;54.3400235;station;;;;;1;https://www.openstreetmap.org/node/2076621418
+node_2076621422;Проня;40.2434418;54.2980611;station;;;;;1;https://www.openstreetmap.org/node/2076621422
+node_2076677249;Гавердово;40.1316951;54.5067437;halt;;;;;1;https://www.openstreetmap.org/node/2076677249
+node_2076677250;Дачная;40.0093043;54.5092176;halt;;;;;1;https://www.openstreetmap.org/node/2076677250
+node_2076677251;Дудкино;40.0762287;54.5177865;halt;;;;;1;https://www.openstreetmap.org/node/2076677251
+node_2076677252;Перкино;40.2208855;54.3106964;halt;;;;;1;https://www.openstreetmap.org/node/2076677252
+node_2076677255;229 км;40.0624307;54.5175358;halt;;;;;1;https://www.openstreetmap.org/node/2076677255
+node_2091257516;249 км;39.9575873;54.2606675;halt;;;;;1;https://www.openstreetmap.org/node/2091257516
+node_2110491779;Алексин;37.0781912;54.5003865;station;;;;;1;https://www.openstreetmap.org/node/2110491779
+node_2112203473;Суходол;37.3538231;54.4384482;station;;;;;1;https://www.openstreetmap.org/node/2112203473
+node_2112208772;Сторожевое;37.3845177;54.2513194;halt;;;;;1;https://www.openstreetmap.org/node/2112208772
+node_2112208773;Малахово;37.4954343;54.3598805;halt;;;;;1;https://www.openstreetmap.org/node/2112208773
+node_2112208774;Тесницкое;37.4562454;54.4008957;halt;;;;;1;https://www.openstreetmap.org/node/2112208774
+node_2112543432;238 км;37.1006135;54.4841764;halt;;;;;1;https://www.openstreetmap.org/node/2112543432
+node_2113578122;Бабошино;37.1228391;54.2262597;halt;;;;;1;https://www.openstreetmap.org/node/2113578122
+node_2114037634;Средняя;36.9661724;54.5096594;station;;;;;1;https://www.openstreetmap.org/node/2114037634
+node_2166561859;Обменная;37.6738654;55.5890429;station;;;;;1;https://www.openstreetmap.org/node/2166561859
+node_2168211038;142 км;39.1154622;54.9736828;halt;;;;;1;https://www.openstreetmap.org/node/2168211038
+node_2258542702;Романовские дачи;37.3740038;54.7920031;halt;;;;;1;https://www.openstreetmap.org/node/2258542702
+node_2261673394;Реутов;37.8556312;55.7515634;station;;;;;1;https://www.openstreetmap.org/node/2261673394
+node_2261680950;Никольское;37.8971521;55.7595549;halt;;;;;1;https://www.openstreetmap.org/node/2261680950
+node_2281272965;Авиационная;37.8358311;55.4224224;station;;;;;1;https://www.openstreetmap.org/node/2281272965
+node_2285182785;Чёрное;38.0598061;55.7531863;halt;;;;;1;https://www.openstreetmap.org/node/2285182785
+node_2290579393;165 км;36.938313;55.8880065;halt;;;;;1;https://www.openstreetmap.org/node/2290579393
+node_2334801351;Новопеределкино;37.3828417;55.6382763;halt;;;;;1;https://www.openstreetmap.org/node/2334801351
+node_2348045356;Ветчи;38.9959776;55.9510556;halt;;;;;1;https://www.openstreetmap.org/node/2348045356
+node_2348045358;Илейкино;38.847681;56.0724511;halt;;;;;1;https://www.openstreetmap.org/node/2348045358
+node_2348045362;Санино;38.9108694;56.0004208;halt;;;;;1;https://www.openstreetmap.org/node/2348045362
+node_2348045550;Янтарная;38.8671687;56.0407321;halt;;;;;1;https://www.openstreetmap.org/node/2348045550
+node_2348045553;173 км;39.0034265;55.9331957;halt;;;;;1;https://www.openstreetmap.org/node/2348045553
+node_2348045555;178 км;39.0025914;55.8862895;halt;;;;;1;https://www.openstreetmap.org/node/2348045555
+node_2357452884;Загорново;38.3363773;55.5155321;halt;;;;;1;https://www.openstreetmap.org/node/2357452884
+node_2393108546;Кузяево;38.5456973;55.6039038;halt;;;;;1;https://www.openstreetmap.org/node/2393108546
+node_2438836843;Балабаново;36.662441;55.1788955;station;;;;;1;https://www.openstreetmap.org/node/2438836843
+node_2441374899;Малоярославец;36.4809542;55.0076066;station;;;;;1;https://www.openstreetmap.org/node/2441374899
+node_2441374902;Шемякино;36.5534027;55.0535374;station;;;;;1;https://www.openstreetmap.org/node/2441374902
+node_2441634097;Ерденево;36.3911304;54.9240649;station;;;;;1;https://www.openstreetmap.org/node/2441634097
+node_2441827827;Суходрев;36.3195259;54.8067512;station;;;;;1;https://www.openstreetmap.org/node/2441827827
+node_2442348406;Горенская;36.1382707;54.6115095;station;;;;;1;https://www.openstreetmap.org/node/2442348406
+node_2444000077;Воротынск;36.0410484;54.4667969;station;;;;;1;https://www.openstreetmap.org/node/2444000077
+node_2446093919;Лютик;38.3264124;55.1022055;halt;;;;;1;https://www.openstreetmap.org/node/2446093919
+node_2461314557;Красный Луч;38.9659621;55.9634789;halt;;;;;1;https://www.openstreetmap.org/node/2461314557
+node_2496131234;Струя;40.1088101;55.5249244;halt;;;;;1;https://www.openstreetmap.org/node/2496131234
+node_2500340402;Донцы;38.946659;54.259917;halt;;;;;1;https://www.openstreetmap.org/node/2500340402
+node_2504903003;Крюково-Грузовое;37.193292;56.0056281;station;;;;;1;https://www.openstreetmap.org/node/2504903003
+node_2572283841;Мошнино;38.8507537;56.4543335;halt;;;;;1;https://www.openstreetmap.org/node/2572283841
+node_2590093182;Шевлягино;38.610446;55.5995371;halt;;;;;1;https://www.openstreetmap.org/node/2590093182
+node_2615881446;Карасёво;38.6149863;55.0126944;station;;;;;1;https://www.openstreetmap.org/node/2615881446
+node_2628508574;Центральный блок-пост;38.9753378;55.7643182;halt;;;;;1;https://www.openstreetmap.org/node/2628508574
+node_2628536379;Северный;38.9756124;55.7883715;halt;;;;;1;https://www.openstreetmap.org/node/2628536379
+node_2628536380;Северный;38.974129;55.7906514;halt;;;;;1;https://www.openstreetmap.org/node/2628536380
+node_2628803677;211 км;36.6785469;55.552055;halt;;;;;1;https://www.openstreetmap.org/node/2628803677
+node_2628803730;214 км;36.6648197;55.5369689;halt;;;;;1;https://www.openstreetmap.org/node/2628803730
+node_2630359453;Центральный блок-пост;38.9662231;55.7673156;halt;;;;;1;https://www.openstreetmap.org/node/2630359453
+node_2631368866;Яганово;38.276978;55.09236;station;;;;;1;https://www.openstreetmap.org/node/2631368866
+node_2635328582;Лукино;36.8799897;55.8564199;station;;;;;1;https://www.openstreetmap.org/node/2635328582
+node_2635344952;183 км;36.805454;55.7726669;halt;;;;;1;https://www.openstreetmap.org/node/2635344952
+node_2637312932;192 км;36.7859337;55.6983739;halt;;;;;1;https://www.openstreetmap.org/node/2637312932
+node_2639103519;159 км;36.9984531;55.9287624;halt;;;;;1;https://www.openstreetmap.org/node/2639103519
+node_2675910546;Жоково;38.964295;54.602467;halt;;;;;1;https://www.openstreetmap.org/node/2675910546
+node_2687590616;Москва-Пассажирская-Смоленская;37.5803618;55.7763133;station;;;;;1;https://www.openstreetmap.org/node/2687590616
+node_2687590617;Москва-Бутырская;37.5887393;55.7955692;station;;;;;1;https://www.openstreetmap.org/node/2687590617
+node_2687602339;Москва-Пассажирская-Киевская;37.5628449;55.7420034;station;;;;;1;https://www.openstreetmap.org/node/2687602339
+node_2691807893;Брусы;37.1979019;54.2582793;halt;;;;;1;https://www.openstreetmap.org/node/2691807893
+node_2697721687;237 км;39.8520446;54.3424505;halt;;;;;1;https://www.openstreetmap.org/node/2697721687
+node_2699008011;Москва-Товарная;37.6262201;55.8024495;station;;;;;1;https://www.openstreetmap.org/node/2699008011
+node_2719817096;Луч;37.4948459;55.0941896;halt;;;;;1;https://www.openstreetmap.org/node/2719817096
+node_2719878468;Алпатьево;39.3261162;54.8800932;station;;;;;1;https://www.openstreetmap.org/node/2719878468
+node_2719885858;Ситенка;38.0520455;54.9454067;halt;;;;;1;https://www.openstreetmap.org/node/2719885858
+node_2719885862;Ступино;38.0789616;54.9090262;station;;;;;1;https://www.openstreetmap.org/node/2719885862
+node_2724183930;146 км;38.5806867;54.6325258;halt;;;;;1;https://www.openstreetmap.org/node/2724183930
+node_2750740151;Детская;37.9619456;55.9681495;halt;;;;;1;https://www.openstreetmap.org/node/2750740151
+node_2783027111;Леоново;39.3942803;55.9182559;halt;;;;;1;https://www.openstreetmap.org/node/2783027111
+node_2819447355;Стрешнево;37.4901015;55.8152358;halt;;;;;1;https://www.openstreetmap.org/node/2819447355
+node_2819458110;Коровино;38.5976631;54.6188848;halt;;;;;1;https://www.openstreetmap.org/node/2819458110
+node_2819459401;Богатищево;38.528959;54.6791941;station;;;;;1;https://www.openstreetmap.org/node/2819459401
+node_2831324182;Ботино;39.6006915;55.5653037;halt;;;;;1;https://www.openstreetmap.org/node/2831324182
+node_2888639462;Криуша;39.9699722;54.9446687;halt;;;;;1;https://www.openstreetmap.org/node/2888639462
+node_2916489266;81 км;38.2314248;56.3703366;halt;;;;;1;https://www.openstreetmap.org/node/2916489266
+node_2932647533;Коломна;38.7811165;55.0995509;halt;;;;;1;https://www.openstreetmap.org/node/2932647533
+node_2932647534;Амерево;38.7853579;55.1169225;halt;;;;;1;https://www.openstreetmap.org/node/2932647534
+node_2933238684;Авсюнино;39.11467;55.5597694;station;;;;;1;https://www.openstreetmap.org/node/2933238684
+node_2933238685;Анциферово;38.7551085;55.581773;halt;;;;;1;https://www.openstreetmap.org/node/2933238685
+node_2933238686;Подосинки;38.8234154;55.5720451;halt;;;;;1;https://www.openstreetmap.org/node/2933238686
+node_2940185786;Башкино;36.6727901;55.3177698;halt;;;;;1;https://www.openstreetmap.org/node/2940185786
+node_2966093424;Нара;36.7511001;55.3831594;station;;;;;1;https://www.openstreetmap.org/node/2966093424
+node_3011256784;Пожитково;36.8030358;55.4412419;station;;;;;1;https://www.openstreetmap.org/node/3011256784
+node_3017894073;Пост 59 км;39.3452746;54.7103919;halt;;;;;1;https://www.openstreetmap.org/node/3017894073
+node_3058911918;Ростокино;37.6668443;55.839644;halt;;;;;1;https://www.openstreetmap.org/node/3058911918
+node_3078161271;107 км;37.4139418;54.8712768;halt;;;;;1;https://www.openstreetmap.org/node/3078161271
+node_3078178782;Родничок;37.5810906;54.2309131;halt;;;;;1;https://www.openstreetmap.org/node/3078178782
+node_3113131956;Зосимова Пустынь;36.8137918;55.4149943;halt;;;;;1;https://www.openstreetmap.org/node/3113131956
+node_3113131958;Ожигово;36.887269;55.458066;halt;;;;;1;https://www.openstreetmap.org/node/3113131958
+node_3113131961;Рассудово;36.916682;55.4801127;halt;;;;;1;https://www.openstreetmap.org/node/3113131961
+node_3129212862;Москва-Южный Порт;37.7143067;55.7051063;station;;;;;1;https://www.openstreetmap.org/node/3129212862
+node_3160952315;Чертаново;37.6320777;55.6239532;station;;;;;1;https://www.openstreetmap.org/node/3160952315
+node_3221716794;Топорково;38.2020662;56.3442168;halt;;;;;1;https://www.openstreetmap.org/node/3221716794
+node_3221716795;Беливо;39.032633;55.5656123;halt;;;;;1;https://www.openstreetmap.org/node/3221716795
+node_3279093264;Багримово;38.9113595;56.5573543;halt;;;;;1;https://www.openstreetmap.org/node/3279093264
+node_3279093266;Беклемишево;39.2427618;56.8027807;station;;;;;1;https://www.openstreetmap.org/node/3279093266
+node_3279093273;Итларь;39.28773;56.8588;station;;;;;1;https://www.openstreetmap.org/node/3279093273
+node_3279093278;Петровск;39.2738478;57.0030175;station;;;;;1;https://www.openstreetmap.org/node/3279093278
+node_3279093280;Рокша;39.2091905;56.664934;halt;;;;;1;https://www.openstreetmap.org/node/3279093280
+node_3279093283;Рязанцево;39.2120215;56.7085796;station;;;;;1;https://www.openstreetmap.org/node/3279093283
+node_3279093285;Сильницы;39.2912554;56.9305525;station;;;;;1;https://www.openstreetmap.org/node/3279093285
+node_3279093291;Василисино;38.9803946;56.5881403;halt;;;;;1;https://www.openstreetmap.org/node/3279093291
+node_3279093293;Смоленское;39.165688;56.6375406;halt;;;;;1;https://www.openstreetmap.org/node/3279093293
+node_3279093294;187 км;39.3029056;56.9014546;halt;;;;;1;https://www.openstreetmap.org/node/3279093294
+node_3427527456;Балакирево;38.8501796;56.5077153;station;;;;;1;https://www.openstreetmap.org/node/3427527456
+node_3428853702;Жилёво;38.031223;54.9861497;station;;;;;1;https://www.openstreetmap.org/node/3428853702
+node_3439286332;Путевой пост 320 км;37.9530144;55.1451788;station;;;;;1;https://www.openstreetmap.org/node/3439286332
+node_3481429975;29 км;39.6448013;55.3332494;halt;;;;;1;https://www.openstreetmap.org/node/3481429975
+node_3496412815;214 км;36.8366483;54.4888467;halt;;;;;1;https://www.openstreetmap.org/node/3496412815
+node_3498765488;Егорьевск I;39.0319092;55.3748566;station;;;;;1;https://www.openstreetmap.org/node/3498765488
+node_3510838566;294 км;37.5718045;55.1787092;halt;;;;;1;https://www.openstreetmap.org/node/3510838566
+node_3576552693;Горшково;38.2216909;54.5026745;halt;;;;;1;https://www.openstreetmap.org/node/3576552693
+node_3599132222;Музей;36.7120802;55.5655356;halt;;;;;1;https://www.openstreetmap.org/node/3599132222
+node_3599132669;"Парк ""Патриот""";36.8247338;55.5607383;station;;;;;1;https://www.openstreetmap.org/node/3599132669
+node_3608481074;Заводская;37.9176148;55.587398;station;;;;;1;https://www.openstreetmap.org/node/3608481074
+node_3608481075;Разъезд 2 километр;37.8908294;55.6575606;station;;;;;1;https://www.openstreetmap.org/node/3608481075
+node_3609204449;Андроновка;37.7330367;55.7411038;station;;;;;1;https://www.openstreetmap.org/node/3609204449
+node_3625226778;Мальчики;37.9028611;55.6738379;station;;;;;1;https://www.openstreetmap.org/node/3625226778
+node_3750101608;Алабино;36.9913155;55.5286039;halt;;;;;1;https://www.openstreetmap.org/node/3750101608
+node_3763350426;139 км;37.4945413;56.9013954;halt;;;;;1;https://www.openstreetmap.org/node/3763350426
+node_3783533806;Сазоново;39.6631501;55.224344;halt;;;;;1;https://www.openstreetmap.org/node/3783533806
+node_3783534753;15 км;39.6715782;55.4542662;halt;;;;;1;https://www.openstreetmap.org/node/3783534753
+node_3830367593;47 км;38.0341053;56.324761;halt;;;;;1;https://www.openstreetmap.org/node/3830367593
+node_3990245501;Казанское;38.5732656;55.7566651;halt;;;;;1;https://www.openstreetmap.org/node/3990245501
+node_3990265699;Назарьево;38.7777677;55.7557824;halt;;;;;1;https://www.openstreetmap.org/node/3990265699
+node_3990931491;Ворсино;36.6677524;55.2409895;station;;;;;1;https://www.openstreetmap.org/node/3990931491
+node_3990931493;Калуга — Сергиев Скит;36.1275609;54.5391865;station;;;;;1;https://www.openstreetmap.org/node/3990931493
+node_3990931494;Обнинское;36.6183802;55.0927872;station;;;;;1;https://www.openstreetmap.org/node/3990931494
+node_3990931495;Родинка;36.2740353;54.7681798;halt;;;;;1;https://www.openstreetmap.org/node/3990931495
+node_3990931496;Сляднево;36.2012128;54.7290827;halt;;;;;1;https://www.openstreetmap.org/node/3990931496
+node_3990931497;Тихонова Пустынь;36.1521078;54.6405832;station;;;;;1;https://www.openstreetmap.org/node/3990931497
+node_3990931498;140 км;36.3584404;54.8655036;halt;;;;;1;https://www.openstreetmap.org/node/3990931498
+node_3990931499;167 км;36.1692956;54.6614906;halt;;;;;1;https://www.openstreetmap.org/node/3990931499
+node_3991042493;Домашёвка;35.6371576;54.3403291;halt;;;;;1;https://www.openstreetmap.org/node/3991042493
+node_3991042494;Дяглевка;35.8666582;54.431213;halt;;;;;1;https://www.openstreetmap.org/node/3991042494
+node_3991042495;Липицы;35.6203003;54.3089057;halt;;;;;1;https://www.openstreetmap.org/node/3991042495
+node_3991042496;188 км;36.0802171;54.4885319;halt;;;;;1;https://www.openstreetmap.org/node/3991042496
+node_3991042497;196 км;35.9969352;54.4478322;halt;;;;;1;https://www.openstreetmap.org/node/3991042497
+node_3991042498;200 км;35.9346449;54.4440119;halt;;;;;1;https://www.openstreetmap.org/node/3991042498
+node_3991042499;218 км;35.718481;54.3693724;halt;;;;;1;https://www.openstreetmap.org/node/3991042499
+node_3992171187;Партизанская;36.3094031;55.537966;halt;;;;;1;https://www.openstreetmap.org/node/3992171187
+node_3993251044;Тульская;37.6238334;55.7045344;halt;;;;;1;https://www.openstreetmap.org/node/3993251044
+node_3993327057;Данилово;37.8706669;55.3112932;halt;;;;;1;https://www.openstreetmap.org/node/3993327057
+node_3993333020;Шугарово;37.9883582;55.0625346;halt;;;;;1;https://www.openstreetmap.org/node/3993333020
+node_3993408368;Топканово;38.4736513;54.7072548;halt;;;;;1;https://www.openstreetmap.org/node/3993408368
+node_3993408373;137 км;38.4891794;54.6971705;halt;;;;;1;https://www.openstreetmap.org/node/3993408373
+node_3993508713;Пурлово;38.3835719;54.7319833;station;;;;;1;https://www.openstreetmap.org/node/3993508713
+node_3995048466;Серебряные Пруды;38.7232983;54.4586099;station;;;;;1;https://www.openstreetmap.org/node/3995048466
+node_3995107196;Виленки;38.8986986;54.294294;station;;;;;1;https://www.openstreetmap.org/node/3995107196
+node_3995167258;Цементная (недейств.);38.8984403;54.2397672;station;;;;;1;https://www.openstreetmap.org/node/3995167258
+node_3995184587;Михайлов;39.0148968;54.2224718;station;;;;;1;https://www.openstreetmap.org/node/3995184587
+node_3997380544;Дмитровская;37.5782451;55.8079363;halt;;;;;1;https://www.openstreetmap.org/node/3997380544
+node_4086954099;Заводская;38.052364;54.9156653;station;;;;;1;https://www.openstreetmap.org/node/4086954099
+node_4276275002;250 км;36.9782312;55.3190809;halt;;;;;1;https://www.openstreetmap.org/node/4276275002
+node_4276275003;252 км;37.0112161;55.3061995;halt;;;;;1;https://www.openstreetmap.org/node/4276275003
+node_4366001254;Медведково;37.6121431;55.8800253;station;;;;;1;https://www.openstreetmap.org/node/4366001254
+node_4375793533;Шоссе Энтузиастов;37.7460379;55.7589041;halt;;;;;1;https://www.openstreetmap.org/node/4375793533
+node_4379061166;Автозаводская;37.6631393;55.7063123;halt;;;;;1;https://www.openstreetmap.org/node/4379061166
+node_4379061167;Андроновка;37.7377294;55.7470515;halt;;;;;1;https://www.openstreetmap.org/node/4379061167
+node_4379061169;Ботанический сад;37.6396733;55.8455497;halt;;;;;1;https://www.openstreetmap.org/node/4379061169
+node_4379061170;Верхние Котлы;37.6188659;55.6901311;halt;;;;;1;https://www.openstreetmap.org/node/4379061170
+node_4379061171;Владыкино;37.5926865;55.8473279;halt;;;;;1;https://www.openstreetmap.org/node/4379061171
+node_4379061172;Москва-Сити;37.5320101;55.7475564;halt;;;;;1;https://www.openstreetmap.org/node/4379061172
+node_4379061173;Зорге;37.5043625;55.7884942;halt;;;;;1;https://www.openstreetmap.org/node/4379061173
+node_4379061174;Измайлово;37.743213;55.7897913;halt;;;;;1;https://www.openstreetmap.org/node/4379061174
+node_4379061176;Коптево;37.5201074;55.8396193;halt;;;;;1;https://www.openstreetmap.org/node/4379061176
+node_4379061177;Крымская;37.6057607;55.6898387;halt;;;;;1;https://www.openstreetmap.org/node/4379061177
+node_4379061178;Кутузовская;37.5340531;55.7399173;halt;;;;;1;https://www.openstreetmap.org/node/4379061178
+node_4379061179;Лихоборы;37.5514638;55.8471565;halt;;;;;1;https://www.openstreetmap.org/node/4379061179
+node_4379061181;Лужники;37.5613109;55.7206173;halt;;;;;1;https://www.openstreetmap.org/node/4379061181
+node_4379061183;Окружная;37.5711327;55.8489281;halt;;;;;1;https://www.openstreetmap.org/node/4379061183
+node_4379061184;Панфиловская;37.4990272;55.7990098;halt;;;;;1;https://www.openstreetmap.org/node/4379061184
+node_4379061185;Площадь Гагарина;37.586394;55.7069666;halt;;;;;1;https://www.openstreetmap.org/node/4379061185
+node_4379061187;Соколиная Гора;37.7450661;55.7713304;halt;;;;;1;https://www.openstreetmap.org/node/4379061187
+node_4379061188;Стрешнево;37.4869799;55.8137004;halt;;;;;1;https://www.openstreetmap.org/node/4379061188
+node_4379061589;Угрешская;37.6977066;55.7184497;halt;;;;;1;https://www.openstreetmap.org/node/4379061589
+node_4379061590;Шелепиха;37.525668;55.7573064;halt;;;;;1;https://www.openstreetmap.org/node/4379061590
+node_4397879996;Белокаменная;37.7024844;55.8293089;halt;;;;;1;https://www.openstreetmap.org/node/4397879996
+node_4409542907;Балтийская;37.4964047;55.825887;halt;;;;;1;https://www.openstreetmap.org/node/4409542907
+node_4418228583;Ростокино;37.6569202;55.8427156;station;;;;;1;https://www.openstreetmap.org/node/4418228583
+node_4450704356;Истра;36.8559996;55.9039779;halt;;;;;1;https://www.openstreetmap.org/node/4450704356
+node_4455082679;Катуар;37.5043128;56.0909059;station;;;;;1;https://www.openstreetmap.org/node/4455082679
+node_4455082681;Луговая;37.4928085;56.0494495;halt;;;;;1;https://www.openstreetmap.org/node/4455082681
+node_4455082684;Некрасовская;37.4960474;56.0746633;halt;;;;;1;https://www.openstreetmap.org/node/4455082684
+node_4455082685;Трудовая;37.5150771;56.1207935;halt;;;;;1;https://www.openstreetmap.org/node/4455082685
+node_4488251068;Дубровка;37.6777959;55.7126812;halt;;;;;1;https://www.openstreetmap.org/node/4488251068
+node_4739808708;Бульвар Рокоссовского;37.7373556;55.8170453;halt;;;;;1;https://www.openstreetmap.org/node/4739808708
+node_4741861341;Болдино;39.7366779;55.9528846;station;;;;;1;https://www.openstreetmap.org/node/4741861341
+node_4741861529;Усад;39.1034747;55.8690774;station;;;;;1;https://www.openstreetmap.org/node/4741861529
+node_4804174180;Донино;38.2751739;55.6360579;halt;;;;;1;https://www.openstreetmap.org/node/4804174180
+node_4804280819;Туголесье;39.7983396;55.5646763;halt;;;;;1;https://www.openstreetmap.org/node/4804280819
+node_4804289407;Воймежный;39.8619606;55.5654254;halt;;;;;1;https://www.openstreetmap.org/node/4804289407
+node_4804294316;Черусти;40.0045057;55.54244;station;;;;;1;https://www.openstreetmap.org/node/4804294316
+node_4833096162;Хорошёво;37.507379;55.7771437;halt;;;;;1;https://www.openstreetmap.org/node/4833096162
+node_4833122335;Локомотив;37.7460075;55.8041325;halt;;;;;1;https://www.openstreetmap.org/node/4833122335
+node_4833126188;Нижегородская;37.7281427;55.7321929;halt;;;;;1;https://www.openstreetmap.org/node/4833126188
+node_4833132227;Новохохловская;37.7168875;55.7241462;halt;;;;;1;https://www.openstreetmap.org/node/4833132227
+node_4833137665;ЗИЛ;37.6475538;55.697877;halt;;;;;1;https://www.openstreetmap.org/node/4833137665
+node_5314068870;Парк ТЭЦ;39.7733928;54.5768133;station;;;;;1;https://www.openstreetmap.org/node/5314068870
+node_5326016132;Рязань-Сортировочная;39.5455831;54.7104041;halt;;;;;1;https://www.openstreetmap.org/node/5326016132
+node_5594600030;Шереметьево 1;37.4133128;55.9811631;station;;;;;1;https://www.openstreetmap.org/node/5594600030
+node_5594634993;Шереметьево 2;37.4107152;55.9632284;station;;;;;1;https://www.openstreetmap.org/node/5594634993
+node_5623098445;Бельково;38.7891656;56.2673538;station;;;;;1;https://www.openstreetmap.org/node/5623098445
+node_5890300571;Новохохловская;37.7128095;55.7250755;halt;;;;;1;https://www.openstreetmap.org/node/5890300571
+node_5988989651;Нижегородская;37.7298182;55.733367;station;;;;;1;https://www.openstreetmap.org/node/5988989651
+node_6034565250;Детково;37.5192638;55.2185115;station;;;;;1;https://www.openstreetmap.org/node/6034565250
+node_6110332204;Храпуново;38.3472913;55.7209943;station;;;;;1;https://www.openstreetmap.org/node/6110332204
+node_6163569388;Верхние Котлы;37.6169631;55.6900297;halt;;;;;1;https://www.openstreetmap.org/node/6163569388
+node_6418259058;Циолковская;38.1033634;55.8702231;halt;;;;;1;https://www.openstreetmap.org/node/6418259058
+node_6418693116;Аэропорт Внуково;37.286848;55.6066179;halt;;;;;1;https://www.openstreetmap.org/node/6418693116
+node_6418845805;Ивантеевка-2;37.9079497;55.9617772;halt;;;;;1;https://www.openstreetmap.org/node/6418845805
+node_6425123924;Курьяново;37.70139;55.6498349;station;;;;;1;https://www.openstreetmap.org/node/6425123924
+node_6437077469;Белый Городок;37.5349807;56.949135;station;;;;;1;https://www.openstreetmap.org/node/6437077469
+node_6437077470;Савёлово;37.3770067;56.8558588;station;;;;;1;https://www.openstreetmap.org/node/6437077470
+node_6447319935;Колонтаево;38.2737;55.77972;halt;;;;;1;https://www.openstreetmap.org/node/6447319935
+node_6447319936;Осеевская;38.1350812;55.8613736;halt;;;;;1;https://www.openstreetmap.org/node/6447319936
+node_6447562798;Лесная;38.3634451;55.7544086;halt;;;;;1;https://www.openstreetmap.org/node/6447562798
+node_6452308572;Солнечная;37.384817;55.6572454;station;;;;;1;https://www.openstreetmap.org/node/6452308572
+node_6453276366;Очаково I;37.4514951;55.6836351;station;;;;;1;https://www.openstreetmap.org/node/6453276366
+node_6479008993;Лагерный;39.6711911;54.6437459;halt;;;;;1;https://www.openstreetmap.org/node/6479008993
+node_6501069903;Остафьево;37.5549248;55.4855891;station;;;;;1;https://www.openstreetmap.org/node/6501069903
+node_6516800631;Сколково;37.3425389;55.7001205;halt;;;;;1;https://www.openstreetmap.org/node/6516800631
+node_6564392308;Санино;37.1381673;55.583979;halt;;;;;1;https://www.openstreetmap.org/node/6564392308
+node_6576977142;Черусти-II;40.0220746;55.5448855;station;;;;;1;https://www.openstreetmap.org/node/6576977142
+node_6595236431;Мичуринец;37.3155468;55.6461888;halt;;;;;1;https://www.openstreetmap.org/node/6595236431
+node_6605207003;Чухлинка;37.7644368;55.7336173;halt;;;;;1;https://www.openstreetmap.org/node/6605207003
+node_6629587605;Славянский бульвар;37.4722683;55.7303845;halt;;;;;1;https://www.openstreetmap.org/node/6629587605
+node_6986103158;Площадь трёх вокзалов;37.651616;55.7762216;halt;;;;;1;https://www.openstreetmap.org/node/6986103158
+node_7001803288;Волоколамская;37.3824599;55.8321414;halt;;;;;1;https://www.openstreetmap.org/node/7001803288
+node_7005693730;Пенягино;37.3613943;55.8233865;halt;;;;;1;https://www.openstreetmap.org/node/7005693730
+node_7444628542;Мятлевская;35.6752264;54.8922076;station;;;;;1;https://www.openstreetmap.org/node/7444628542
+node_7503063463;Гагаринская;38.0361096;55.9063752;halt;;;;;1;https://www.openstreetmap.org/node/7503063463
+node_7503127482;Чкаловская;38.0625173;55.8974342;station;;;;;1;https://www.openstreetmap.org/node/7503127482
+node_7503496975;Кашино;38.2343845;55.8129033;halt;;;;;1;https://www.openstreetmap.org/node/7503496975
+node_7540099317;Турист;37.5118718;56.243714;halt;;;;;1;https://www.openstreetmap.org/node/7540099317
+node_7616392240;Бухолово;35.6446479;56.0102064;halt;;;;;1;https://www.openstreetmap.org/node/7616392240
+node_7628601425;Переделкино;37.3556346;55.6562878;halt;;;;;1;https://www.openstreetmap.org/node/7628601425
+node_7880631948;Зелёный Бор;37.8786755;55.9629458;station;;;;;1;https://www.openstreetmap.org/node/7880631948
+node_7952696364;Виноградово;38.5613414;55.4267317;station;;;;;1;https://www.openstreetmap.org/node/7952696364
+node_8047546763;Новогиреево;37.8183129;55.7443541;halt;;;;;1;https://www.openstreetmap.org/node/8047546763
+node_8154958413;Ховрино;37.487406;55.8791703;halt;;;;;1;https://www.openstreetmap.org/node/8154958413
+node_8204060757;Аэропорт;37.2660622;55.6099621;station;;;;;1;https://www.openstreetmap.org/node/8204060757
+node_8204066296;Лесной Городок;37.2184084;55.6322536;station;;;;;1;https://www.openstreetmap.org/node/8204066296
+node_8256915865;Бараново;37.681965;54.3899256;halt;;;;;1;https://www.openstreetmap.org/node/8256915865
+node_8312960731;Павловский Посад;38.6739567;55.7757853;station;;;;;1;https://www.openstreetmap.org/node/8312960731
+node_8372575397;Красноармейск;38.1359677;56.1088758;station;;;;;1;https://www.openstreetmap.org/node/8372575397
+node_8540724129;Белокаменная;37.7000597;55.8302048;station;;;;;1;https://www.openstreetmap.org/node/8540724129
+node_8551829155;Москва-Сортировочная-Киевская;37.5123234;55.7282829;station;;;;;1;https://www.openstreetmap.org/node/8551829155
+node_8850380485;Бавлены;39.5616825;56.3997411;station;;;;;1;https://www.openstreetmap.org/node/8850380485
+node_8869724091;Щукинская;37.4602535;55.8111746;halt;;;;;1;https://www.openstreetmap.org/node/8869724091
+node_8992937999;Аминьевская;37.4696956;55.698016;station;;;;;1;https://www.openstreetmap.org/node/8992937999
+node_9085061671;Желтиково;37.9425323;56.2980295;station;;;;;1;https://www.openstreetmap.org/node/9085061671
+node_9087733286;Бекасово-Сортировочное;36.8716977;55.4186086;station;;;;;1;https://www.openstreetmap.org/node/9087733286
+node_9635578849;Минская;37.5016397;55.7239584;halt;;;;;1;https://www.openstreetmap.org/node/9635578849
+node_9815064397;Аэропорт Шереметьево. Терминалы B, C;37.414128;55.9822846;station;;;;;1;https://www.openstreetmap.org/node/9815064397
+node_9817105700;Печатники;37.7322667;55.6927576;halt;;;;;1;https://www.openstreetmap.org/node/9817105700
+node_9819156477;Ольгино;37.9787468;55.7517377;halt;;;;;1;https://www.openstreetmap.org/node/9819156477
+node_9920863548;Обидимо;37.4676838;54.2870788;station;;;;;1;https://www.openstreetmap.org/node/9920863548
+node_9939274649;Старопролетарская;37.7506123;55.7184749;station;;;;;1;https://www.openstreetmap.org/node/9939274649
+node_10075273459;Калуга-1;36.2790038;54.5334668;station;;;;;1;https://www.openstreetmap.org/node/10075273459
+node_10075293015;Пятовская;36.0723241;54.6905799;station;;;;;1;https://www.openstreetmap.org/node/10075293015
+node_10580305901;Старково;39.9199727;56.5452284;halt;;;;;1;https://www.openstreetmap.org/node/10580305901
+node_10580305911;Коробовщинская;39.2674717;56.2622212;halt;;;;;1;https://www.openstreetmap.org/node/10580305911
+node_10580305912;156 км;39.1599751;56.2481684;halt;;;;;1;https://www.openstreetmap.org/node/10580305912
+node_10580305913;Желдыбино;39.0966732;56.2499747;halt;;;;;1;https://www.openstreetmap.org/node/10580305913
+node_10580305914;140 км;38.9155007;56.2506675;halt;;;;;1;https://www.openstreetmap.org/node/10580305914
+node_10580305915;Зеленцино;38.7202385;56.2829958;halt;;;;;1;https://www.openstreetmap.org/node/10580305915
+node_10580305917;Александров-2;38.6913863;56.3721772;station;;;;;1;https://www.openstreetmap.org/node/10580305917
+node_10580306013;Юрьев-Польский;39.6692678;56.4845151;station;;;;;1;https://www.openstreetmap.org/node/10580306013
+node_10580306248;Кольчугино;39.3835937;56.2903035;station;;;;;1;https://www.openstreetmap.org/node/10580306248
+node_10706343979;Марьина Роща;37.6193029;55.8009917;halt;;;;;1;https://www.openstreetmap.org/node/10706343979
+node_10712227612;Горенки;37.9188032;55.8056979;station;;;;;1;https://www.openstreetmap.org/node/10712227612
+node_10923864099;Балашиха;37.9484564;55.8095473;station;;;;;1;https://www.openstreetmap.org/node/10923864099
+node_11085433221;40 км;38.1258762;56.344049;halt;;;;;1;https://www.openstreetmap.org/node/11085433221
+node_11179152559;Кутузовская;37.533117;55.7416684;halt;;;;;1;https://www.openstreetmap.org/node/11179152559
+node_11179152562;Поклонная;37.5207706;55.7321196;halt;;;;;1;https://www.openstreetmap.org/node/11179152562
+node_11181858388;Москва-Сити;37.5303081;55.7504733;halt;;;;;1;https://www.openstreetmap.org/node/11181858388
+node_11187723410;Грачёвская;37.5094458;55.8697985;halt;;;;;1;https://www.openstreetmap.org/node/11187723410
+node_11188034787;Космос;37.8813958;55.4287814;station;;;;;1;https://www.openstreetmap.org/node/11188034787
+node_11188891194;85 км;38.0099675;55.0263732;halt;;;;;1;https://www.openstreetmap.org/node/11188891194
+node_11193026613;Ольховка;38.2402608;54.2577136;halt;;;;;1;https://www.openstreetmap.org/node/11193026613
+node_11193026619;Борзовка;38.2485787;54.3004253;halt;;;;;1;https://www.openstreetmap.org/node/11193026619
+node_11193026624;168 км;38.2335727;54.3993239;halt;;;;;1;https://www.openstreetmap.org/node/11193026624
+node_11193026625;Казарма;38.2311653;54.4215022;halt;;;;;1;https://www.openstreetmap.org/node/11193026625
+node_11193026626;163 км;38.2134268;54.4463637;halt;;;;;1;https://www.openstreetmap.org/node/11193026626
+node_11193026628;Настасьино;38.2283013;54.4692298;halt;;;;;1;https://www.openstreetmap.org/node/11193026628
+node_11193026635;Даниловское;38.2120944;54.6604176;halt;;;;;1;https://www.openstreetmap.org/node/11193026635
+node_11193026636;Даниловское;38.235614;54.6586361;halt;;;;;1;https://www.openstreetmap.org/node/11193026636
+node_11193026645;126 км;38.2247172;54.7465078;halt;;;;;1;https://www.openstreetmap.org/node/11193026645
+node_11193026648;123 км;38.2584983;54.7529476;halt;;;;;1;https://www.openstreetmap.org/node/11193026648
+node_11193136333;Депо;37.7784225;55.4280116;halt;;;;;1;https://www.openstreetmap.org/node/11193136333
+node_11195445329;Москвич;35.7085892;56.0063381;halt;;;;;1;https://www.openstreetmap.org/node/11195445329
+node_11195445331;Подмосковные дачи;35.5866989;56.0224999;halt;;;;;1;https://www.openstreetmap.org/node/11195445331
+node_11196375038;176 км;35.1866002;56.0822459;halt;;;;;1;https://www.openstreetmap.org/node/11196375038
+node_11200276254;240 км;36.9005619;55.3888062;halt;;;;;1;https://www.openstreetmap.org/node/11200276254
+node_11200678676;Фрязино-Пассажирская;38.0441459;55.9634064;halt;;;;;1;https://www.openstreetmap.org/node/11200678676
+node_11200678682;Фабрика 1 Мая;37.8613613;55.9465034;halt;;;;;1;https://www.openstreetmap.org/node/11200678682
+node_11210956747;Непецино;38.5787681;55.2125422;station;;;;;1;https://www.openstreetmap.org/node/11210956747
+node_11211041122;Рязановка;39.5570362;55.1461246;station;;;;;1;https://www.openstreetmap.org/node/11211041122
+node_11211041123;47 км;39.6207178;55.1898335;halt;;;;;1;https://www.openstreetmap.org/node/11211041123
+node_11212083446;Разъезд 24 км;38.9126435;54.5835035;halt;;;;;1;https://www.openstreetmap.org/node/11212083446
+node_11212083447;22 км;38.8788027;54.5705115;halt;;;;;1;https://www.openstreetmap.org/node/11212083447
+node_11212083450;18 км;38.8339307;54.5747394;halt;;;;;1;https://www.openstreetmap.org/node/11212083450
+node_11214285185;179 км;39.4780008;54.7440309;halt;;;;;1;https://www.openstreetmap.org/node/11214285185
+node_11215431734;Садоводный;37.4744021;54.331322;halt;;;;;1;https://www.openstreetmap.org/node/11215431734
+node_11215452677;Энергетик;37.0242949;54.4914228;station;;;;;1;https://www.openstreetmap.org/node/11215452677
+node_11215452716;168 км;36.2944494;54.5312587;halt;;;;;1;https://www.openstreetmap.org/node/11215452716
+node_11215983395;38 км;38.5393699;54.8618928;halt;;;;;1;https://www.openstreetmap.org/node/11215983395
+node_11215983399;Холмы;38.5561001;54.9243903;halt;;;;;1;https://www.openstreetmap.org/node/11215983399
+node_11215983400;Даниловская;38.5819918;54.9464225;halt;;;;;1;https://www.openstreetmap.org/node/11215983400
+node_11215983401;Кудрявцево;38.6059792;54.9867234;halt;;;;;1;https://www.openstreetmap.org/node/11215983401
+node_11215983402;Поселок Лесной;38.6223477;55.0312568;halt;;;;;1;https://www.openstreetmap.org/node/11215983402
+node_11215983403;Сычёво;38.7259772;55.0644341;halt;;;;;1;https://www.openstreetmap.org/node/11215983403
+node_11215983413;Лысцовская;38.6852817;55.0701683;halt;;;;;1;https://www.openstreetmap.org/node/11215983413
+node_11215983418;Семёновский;38.6565221;55.0618798;halt;;;;;1;https://www.openstreetmap.org/node/11215983418
+node_11217630824;Усово;37.2130184;55.7293994;station;;;;;1;https://www.openstreetmap.org/node/11217630824
+node_11217675237;Барвиха;37.2624841;55.7374575;halt;;;;;1;https://www.openstreetmap.org/node/11217675237
+node_11217675244;Раздоры;37.2946552;55.7390117;halt;;;;;1;https://www.openstreetmap.org/node/11217675244
+node_11217675307;Скоротово;36.9140404;55.6786185;halt;;;;;1;https://www.openstreetmap.org/node/11217675307
+node_11217675320;Хлюпино;36.9629484;55.6704851;halt;;;;;1;https://www.openstreetmap.org/node/11217675320
+node_11217675321;Захарово;36.9761664;55.6470099;halt;;;;;1;https://www.openstreetmap.org/node/11217675321
+node_11217675334;Кубинка II;36.7268899;55.6014568;station;;;;;1;https://www.openstreetmap.org/node/11217675334
+node_11217675344;Дюдьково;36.8051877;55.7393825;halt;;;;;1;https://www.openstreetmap.org/node/11217675344
+node_11217675347;174 км;36.8497976;55.8411931;halt;;;;;1;https://www.openstreetmap.org/node/11217675347
+node_11217675356;Манихино II;36.9629793;55.9129351;station;;;;;1;https://www.openstreetmap.org/node/11217675356
+node_11218365162;имени Барсученко;37.4974054;56.4189039;halt;;;;;1;https://www.openstreetmap.org/node/11218365162
+node_11218365167;128 км;37.2612108;56.0813491;halt;;;;;1;https://www.openstreetmap.org/node/11218365167
+node_11218365168;Бухарово;37.2970652;56.0854454;halt;;;;;1;https://www.openstreetmap.org/node/11218365168
+node_11218365169;120 км;37.3794613;56.098395;halt;;;;;1;https://www.openstreetmap.org/node/11218365169
+node_11218365174;109 км;37.4997128;56.1387128;halt;;;;;1;https://www.openstreetmap.org/node/11218365174
+node_11218486987;Дубна;37.2007806;56.745951;station;;;;;1;https://www.openstreetmap.org/node/11218486987
+node_11218486993;Мельдино;37.2621012;56.6587655;halt;;;;;1;https://www.openstreetmap.org/node/11218486993
+node_11218486995;Темпы;37.2955994;56.6358955;halt;;;;;1;https://www.openstreetmap.org/node/11218486995
+node_11218486996;Запрудня;37.3931057;56.5602156;halt;;;;;1;https://www.openstreetmap.org/node/11218486996
+node_11218487000;Соревнование;37.4283466;56.5291895;station;;;;;1;https://www.openstreetmap.org/node/11218487000
+node_11223293659;Бахчиванджи;38.0835754;55.8826727;halt;;;;;1;https://www.openstreetmap.org/node/11223293659
+node_11223481854;Ногинск;38.4435721;55.8507515;station;;;;;1;https://www.openstreetmap.org/node/11223481854
+node_11223558065;Депо;38.9757264;55.7737899;halt;;;;;1;https://www.openstreetmap.org/node/11223558065
+node_11223558066;Депо;38.9712001;55.7746055;halt;;;;;1;https://www.openstreetmap.org/node/11223558066
+node_11223558068;122 км;38.9656359;55.7414359;halt;;;;;1;https://www.openstreetmap.org/node/11223558068
+node_11223558069;122 км;38.9705527;55.7434748;halt;;;;;1;https://www.openstreetmap.org/node/11223558069
+node_11223558073;Дулёво;38.9461926;55.7105838;station;;;;;1;https://www.openstreetmap.org/node/11223558073
+node_11223558074;14 км;38.7833436;55.8644288;halt;;;;;1;https://www.openstreetmap.org/node/11223558074
+node_11225730359;Стрельчиха;37.5868482;57.02454;halt;;;;;1;https://www.openstreetmap.org/node/11225730359
+node_11225730360;151 км;37.5642337;56.9994879;halt;;;;;1;https://www.openstreetmap.org/node/11225730360
+node_11233992170;Сушнево;39.7771919;55.9602597;halt;;;;;1;https://www.openstreetmap.org/node/11233992170
+node_11233992229;Костерёво;39.6194453;55.9297539;station;;;;;1;https://www.openstreetmap.org/node/11233992229
+node_11234021846;Глубоково;39.1627849;55.8807228;halt;;;;;1;https://www.openstreetmap.org/node/11234021846
+node_11241935957;Берендеево;39.0207441;56.5965847;station;;;;;1;https://www.openstreetmap.org/node/11241935957
+node_11241935958;Милославка;39.0529174;56.6019293;halt;;;;;1;https://www.openstreetmap.org/node/11241935958
+node_11241935973;Шушково;39.1161441;56.6200912;station;;;;;1;https://www.openstreetmap.org/node/11241935973
+node_11242005525;Софрино-2;37.9362617;56.1453545;halt;;;;;1;https://www.openstreetmap.org/node/11242005525
+node_11242187733;Путилово;38.0947112;56.1158401;halt;;;;;1;https://www.openstreetmap.org/node/11242187733
+node_11242187734;Фёдоровское;38.0524537;56.1396514;halt;;;;;1;https://www.openstreetmap.org/node/11242187734
+node_11242187735;Рахманово;37.9983026;56.1440269;halt;;;;;1;https://www.openstreetmap.org/node/11242187735
+node_11242187736;Посёлок Дальний;37.9580051;56.1416636;halt;;;;;1;https://www.openstreetmap.org/node/11242187736
+node_11242240452;Иванцево;37.5483905;56.3193266;station;;;;;1;https://www.openstreetmap.org/node/11242240452
+node_11242240453;80 км;37.5903855;56.2955727;halt;;;;;1;https://www.openstreetmap.org/node/11242240453
+node_11242240454;Драчёво;37.6268978;56.301669;halt;;;;;1;https://www.openstreetmap.org/node/11242240454
+node_11242240455;74 км;37.6627395;56.3101166;halt;;;;;1;https://www.openstreetmap.org/node/11242240455
+node_11242240466;Бубяково;38.0729304;56.3433687;halt;;;;;1;https://www.openstreetmap.org/node/11242240466
+node_11242240484;Наугольный;38.1768197;56.3594244;station;;;;;1;https://www.openstreetmap.org/node/11242240484
+node_11243841455;Киржач;38.8455185;56.151596;station;;;;;1;https://www.openstreetmap.org/node/11243841455
+node_11243841459;Мишкин Лес;38.8267775;56.2082431;halt;;;;;1;https://www.openstreetmap.org/node/11243841459
+node_11260326481;Колокша;40.1842126;56.0617211;station;;;;;1;https://www.openstreetmap.org/node/11260326481
+node_11260326484;Угор;40.1335154;56.0481933;halt;;;;;1;https://www.openstreetmap.org/node/11260326484
+node_11260326502;Ундол;39.9824801;56.0199463;station;;;;;1;https://www.openstreetmap.org/node/11260326502
+node_11275573995;Пахотино;40.1174999;54.3670769;halt;;;;;1;https://www.openstreetmap.org/node/11275573995
+node_11579630139;Угрюмово;35.141936;55.018872;halt;;;;;1;https://www.openstreetmap.org/node/11579630139
+node_11579920487;Шаня;35.9750587;54.6950767;station;;;;;1;https://www.openstreetmap.org/node/11579920487
+node_11579920505;136 км;36.0207506;54.6900085;halt;;;;;1;https://www.openstreetmap.org/node/11579920505
+node_11579920508;142 км;36.0996555;54.6771777;halt;;;;;1;https://www.openstreetmap.org/node/11579920508
+node_11579920513;148 км;36.1384441;54.6339979;halt;;;;;1;https://www.openstreetmap.org/node/11579920513
+node_11580136776;108 км;35.7380855;54.8459934;halt;;;;;1;https://www.openstreetmap.org/node/11580136776
+node_11580136779;Костино;35.7897606;54.8184217;halt;;;;;1;https://www.openstreetmap.org/node/11580136779
+node_12027793845;Высоково;36.5856756;56.3708527;station;;;;;1;https://www.openstreetmap.org/node/12027793845
+node_12088901167;Митьково;37.6714367;55.785603;halt;;;;;1;https://www.openstreetmap.org/node/12088901167
+node_12543837922;Новая Тверь;35.8097568;56.7849989;station;;;;;1;https://www.openstreetmap.org/node/12543837922
+node_13334650685;Власово;37.5631707;56.6454263;station;;;;;1;https://www.openstreetmap.org/node/13334650685
+node_13348658798;Фрязино;38.0296174;55.9632996;station;;;;;1;https://www.openstreetmap.org/node/13348658798
+node_13408658381;Петровско-Разумовская;37.5787976;55.8373502;halt;;;;;1;https://www.openstreetmap.org/node/13408658381
+relation_12730189;Калошино;37.7584232;55.8149179;station;;;;;1;https://www.openstreetmap.org/relation/12730189
+relation_12886945;;37.4404853;55.994237;station;;;;;1;https://www.openstreetmap.org/relation/12886945
